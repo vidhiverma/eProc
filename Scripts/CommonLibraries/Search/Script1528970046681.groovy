@@ -18,4 +18,13 @@ import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUiBuiltInKeywords
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
+import org.openqa.selenium.Keys as Keys
+
+WebUI.callTestCase(findTestCase('CommonLibraries/Login'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.waitForPageLoad(10)
+
+WebUI.sendKeys(findTestObject('OnlineStorePage/SerachBox'), findTestData('TestData').getValue(2, 4))
+
+WebUI.click(findTestObject('OnlineStorePage/SearchIcon'), FailureHandling.STOP_ON_FAILURE)
 

@@ -19,3 +19,13 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUiBuiltInKe
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
 
+WebUI.openBrowser(findTestData('TestData').getValue(2, 1))
+
+WebUI.waitForElementVisible(findTestObject('LoginPage/UserID'), 10)
+
+WebUI.sendKeys(findTestObject('LoginPage/UserID'), findTestData('TestData').getValue(2, 2))
+
+WebUI.sendKeys(findTestObject('LoginPage/Password'), findTestData('TestData').getValue(2, 3))
+
+WebUI.click(findTestObject('LoginPage/LoginButton'))
+

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>UserId</name>
+   <name>UserID</name>
    <tag></tag>
-   <elementGuidId>84e2a15f-3968-4311-9f72-f1399bc14ec6</elementGuidId>
+   <elementGuidId>d1f906de-0081-4299-93c3-2c244e007503</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value></value>
+         <value>//input[@id='emailAddressGhost']</value>
       </entry>
       <entry>
          <key>BASIC</key>
          <value></value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
 </WebElementEntity>

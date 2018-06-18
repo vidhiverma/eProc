@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value></value>
+         <value>//eproc-online-store/eproc-spotlight/div[2]/div/div/div[2]/div/eproc-main-search/div[1]/input</value>
       </entry>
       <entry>
          <key>BASIC</key>
