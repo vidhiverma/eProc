@@ -22,7 +22,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('CommonLibraries/Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.waitForPageLoad(10)
+WebUI.waitForPageLoad(5)
 
 WebUI.sendKeys(findTestObject('OnlineStorePage/SerachBox'), findTestData('TestData').getValue(2, 4))
 
