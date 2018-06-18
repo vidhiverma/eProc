@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>SearchBox</name>
+   <name>PriceLinkDropDown</name>
    <tag></tag>
-   <elementGuidId>f8dc15af-4910-403d-974a-a3ecb4e5df97</elementGuidId>
+   <elementGuidId>97a8519f-ab7a-47ae-8f99-67af0e0af548</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value></value>
+         <value>//div[@class='collapse-toggle pointer']/div[1]/div[contains(text(),'Price')]</value>
       </entry>
       <entry>
          <key>BASIC</key>

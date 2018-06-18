@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>SearchBox</name>
+   <name>PastOrderTab</name>
    <tag></tag>
-   <elementGuidId>f8dc15af-4910-403d-974a-a3ecb4e5df97</elementGuidId>
+   <elementGuidId>56889160-15c0-462d-a3df-29bbe3d56e7a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value></value>
+         <value>//div[@class='tabset']//a[contains(text(),'Past Orders')]</value>
       </entry>
       <entry>
          <key>BASIC</key>

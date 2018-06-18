@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>SearchBox</name>
+   <name>CheckboxFirstItem</name>
    <tag></tag>
-   <elementGuidId>f8dc15af-4910-403d-974a-a3ecb4e5df97</elementGuidId>
+   <elementGuidId>510fc8a1-8427-432c-8d70-64f78585702c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value></value>
+         <value>//dew-tab[@id='Catalog']/dew-card/dew-flex/dew-flex-item[1]/eproc-product-card/dew-card/dew-row/dew-col[1]/div</value>
       </entry>
       <entry>
          <key>BASIC</key>

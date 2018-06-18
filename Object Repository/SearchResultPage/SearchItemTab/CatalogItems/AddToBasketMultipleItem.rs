@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
-   <description></description>
-   <name>SearchBox</name>
+   <description>for multiple item</description>
+   <name>AddToBasketMultipleItem</name>
    <tag></tag>
-   <elementGuidId>f8dc15af-4910-403d-974a-a3ecb4e5df97</elementGuidId>
+   <elementGuidId>387c550e-9f76-4c46-96c9-5fb9a3653ce2</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value></value>
+         <value>//dew-flex-item[@class='d-block']/dew-btn[1]/button</value>
       </entry>
       <entry>
          <key>BASIC</key>

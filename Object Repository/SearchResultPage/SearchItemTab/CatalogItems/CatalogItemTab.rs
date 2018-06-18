@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
-   <description></description>
-   <name>SearchBox</name>
+   <description>X path for catalog item tab</description>
+   <name>CatalogItemTab</name>
    <tag></tag>
-   <elementGuidId>f8dc15af-4910-403d-974a-a3ecb4e5df97</elementGuidId>
+   <elementGuidId>0c87e07a-14bb-4fd4-8bd4-46280fd0c1ce</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value></value>
+         <value>//div[@class='tabset']//a[contains(text(),'Catalog Items')]</value>
       </entry>
       <entry>
          <key>BASIC</key>
