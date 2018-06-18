@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>BasketShareButton</name>
+   <tag></tag>
+   <elementGuidId>166a7c9f-784c-46d0-82c4-bdb608c2c705</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id='all-baskets']/dew-row/dew-col[1]/eproc-basket-card/dew-card/dew-card-body/dew-row[3]/button</value>
+   </webElementProperties>
+</WebElementEntity>

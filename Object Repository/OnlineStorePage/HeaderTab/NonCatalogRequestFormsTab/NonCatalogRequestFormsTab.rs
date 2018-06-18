@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>NonCatalogRequestFormsTab</name>
+   <tag></tag>
+   <elementGuidId>2144fa76-4691-419e-9582-ad506d038a16</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//eproc-online-store/dew-tabset/div/div[1]/div/div/ul/li[4]/a</value>
+   </webElementProperties>
+</WebElementEntity>

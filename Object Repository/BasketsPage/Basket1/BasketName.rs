@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>BasketName</name>
+   <tag></tag>
+   <elementGuidId>cab6c146-47a5-4f11-ae02-85383fa100b2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id='all-baskets']/dew-row/dew-col[1]/eproc-basket-card/dew-card/dew-card-body/dew-flex/dew-flex-item[1]/span</value>
+   </webElementProperties>
+</WebElementEntity>

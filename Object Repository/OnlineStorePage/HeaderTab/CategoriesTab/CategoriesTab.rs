@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>CategoriesTab</name>
+   <tag></tag>
+   <elementGuidId>a286508e-4a85-49c9-898b-615ab9b8d4d8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//eproc-online-store/dew-tabset/div/div[1]/div/div/ul/li[7]/a</value>
+   </webElementProperties>
+</WebElementEntity>

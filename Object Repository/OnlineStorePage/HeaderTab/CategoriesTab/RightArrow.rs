@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>RightArrow</name>
+   <tag></tag>
+   <elementGuidId>a4c6a4f1-73a4-49fe-84c6-ded8711900bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id='spyTab8']/dew-section/dew-flex/dew-flex-item[2]/dew-section-header/dew-btn[2]/button</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ViewAllButton</name>
+   <tag></tag>
+   <elementGuidId>37f19e5f-92f7-47db-84fd-b282b3d6b8ce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id='spyTab1']/dew-section/dew-flex/dew-flex-item[2]/dew-section-header/dew-btn/button</value>
+   </webElementProperties>
+</WebElementEntity>

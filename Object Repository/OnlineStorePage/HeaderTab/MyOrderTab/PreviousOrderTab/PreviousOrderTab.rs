@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PreviousOrderTab</name>
+   <tag></tag>
+   <elementGuidId>9b675d6f-9cf9-4ddd-9298-0b76beaabf79</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id='spyTab1']/dew-section/div/dew-section-body/dew-tabset/div/div[1]/div/div/ul/li[2]/a</value>
+   </webElementProperties>
+</WebElementEntity>

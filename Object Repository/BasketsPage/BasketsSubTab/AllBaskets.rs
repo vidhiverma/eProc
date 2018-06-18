@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>AllBaskets</name>
+   <tag></tag>
+   <elementGuidId>5c1712e1-5308-4722-b143-5fcd944cb3ad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//eproc-basket-listing/div/dew-tabset/div/div[1]/div/div/ul/li[1]/a</value>
+   </webElementProperties>
+</WebElementEntity>
