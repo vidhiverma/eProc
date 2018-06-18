@@ -4,6 +4,16 @@
    <name>SortByDropdown</name>
    <tag></tag>
    <elementGuidId>e4e95ba3-e00e-44a9-a7df-0fa2d20d3ad7</elementGuidId>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
 </WebElementEntity>
