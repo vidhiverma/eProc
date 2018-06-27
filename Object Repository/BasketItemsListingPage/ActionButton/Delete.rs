@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value></value>
+         <value>eproc-basket-contents/div/div/div[2]/div/div/a[3]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -17,6 +17,6 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//eproc-basket-contents/div/div/div[2]/div/div/a[2]</value>
+      <value>//eproc-basket-contents/div/div/div[2]/div/div/a[3]</value>
    </webElementProperties>
 </WebElementEntity>

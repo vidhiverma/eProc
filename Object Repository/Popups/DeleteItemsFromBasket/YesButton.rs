@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>YesButton</name>
+   <tag></tag>
+   <elementGuidId>eb0ae7c2-71a0-4cbc-9d50-c7a4d6f65cc9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//eproc-basket-contents/dew-modal[1]/div/div/div[3]/dew-modal-footer/dew-btn[2]/button</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>FirstBasketItemCheckBox</name>
+   <tag></tag>
+   <elementGuidId>18a4c8f4-5f0a-4672-b5d9-41b6811db142</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//dew-block/dew-row/dew-col[1]/eproc-product-card/dew-card/dew-row/dew-col[1]/div</value>
+   </webElementProperties>
+</WebElementEntity>

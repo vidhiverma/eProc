@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SecondItemName</name>
+   <tag></tag>
+   <elementGuidId>b891af1a-50f0-4c3a-b24b-f0ef0d8790d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id='items-in-catalogs']/eproc-product-list/dew-card/dew-flex/dew-flex-item[2]/eproc-product-card/dew-card/dew-row/dew-col[3]/dew-row[2]/dew-col/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id='items-in-catalogs']/eproc-product-list/dew-card/dew-flex/dew-flex-item[2]/eproc-product-card/dew-card/dew-row/dew-col[3]/dew-row[2]/dew-col/span</value>
+   </webElementProperties>
+</WebElementEntity>

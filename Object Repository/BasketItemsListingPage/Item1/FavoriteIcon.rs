@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value></value>
+         <value>//dew-row/dew-col[1]/eproc-product-card/dew-card/dew-row/dew-col[3]/dew-row[1]/dew-col[2]/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -17,6 +17,6 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//eproc-basket-contents/div/dew-block/dew-row/dew-col[1]/eproc-product-card/dew-card/dew-row/dew-col[3]/dew-row[1]/dew-col[2]/div/dew-icon</value>
+      <value>//dew-row/dew-col[1]/eproc-product-card/dew-card/dew-row/dew-col[3]/dew-row[1]/dew-col[2]/div</value>
    </webElementProperties>
 </WebElementEntity>

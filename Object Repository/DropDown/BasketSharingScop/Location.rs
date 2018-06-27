@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Location</name>
+   <tag></tag>
+   <elementGuidId>b631df86-3279-42d2-b520-c986fb80983b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id='my-baskets']/dew-row/dew-col[1]/eproc-basket-card/dew-card/dew-card-body/div/eproc-share-basket-dialog/dew-modal[1]/div/div/div[2]/dew-modal-body/dew-row/dew-col/dew-select/dew-dropdown/div/div[2]/div/div[4]</value>
+   </webElementProperties>
+</WebElementEntity>

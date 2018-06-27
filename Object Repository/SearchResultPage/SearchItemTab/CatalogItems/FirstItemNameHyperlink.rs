@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>FirstItemNameHyperlink</name>
+   <tag></tag>
+   <elementGuidId>9e922c64-7a7d-4343-ac3e-e2618bf855e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id='items-in-catalogs']/eproc-product-list/dew-card/dew-flex/dew-flex-item[1]/eproc-product-card/dew-card/dew-row/dew-col[3]/dew-row[2]/dew-col[1]/span</value>
+   </webElementProperties>
+</WebElementEntity>
