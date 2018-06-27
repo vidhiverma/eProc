@@ -23,7 +23,7 @@ WebUI.openBrowser(findTestData('TestData').getValue(2, 1))
 
 WebUI.maximizeWindow()
 
-WebUI.waitForElementVisible(findTestObject('LoginPage/UserID'), 10)
+WebUI.waitForElementVisible(findTestObject('LoginPage/UserID'), 5)
 
 WebUI.sendKeys(findTestObject('LoginPage/UserID'), findTestData('TestData').getValue(2, 2))
 
