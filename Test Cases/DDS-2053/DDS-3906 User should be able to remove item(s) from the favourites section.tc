@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DDS-3906 User should be able to remove item(s) from the favourites section</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>804a67de-5382-46df-8447-b2640cb6c817</testCaseGuid>
+</TestCaseEntity>

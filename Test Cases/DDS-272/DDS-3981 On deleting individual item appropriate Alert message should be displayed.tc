@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DDS-3981 On deleting individual item appropriate Alert message should be displayed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>38ab804a-f168-43c7-a069-b80901ce2e99</testCaseGuid>
+</TestCaseEntity>

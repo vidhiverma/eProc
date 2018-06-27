@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//dew-modal-body/dew-row/dew-col/p</value>
+         <value>//p[contains(text(),'Are you sure you want to delete')]</value>
       </entry>
       <entry>
          <key>BASIC</key>

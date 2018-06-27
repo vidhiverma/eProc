@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DDS-3958 QTY or Amt field should not accept alphabets</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>27254899-3ae1-421b-914d-4ded765a831c</testCaseGuid>
+</TestCaseEntity>

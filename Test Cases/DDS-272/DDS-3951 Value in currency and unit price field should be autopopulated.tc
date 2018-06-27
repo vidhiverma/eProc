@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DDS-3951 Value in currency and unit price field should be autopopulated</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1155c814-f0e7-4210-80e5-35c43609683e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DDS- 3967 When 0 is entered in QTYor Amt field and navigated away field should be blanked and Popup should be displayed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d394777c-1dfa-4334-9b40-13b995229171</testCaseGuid>
+</TestCaseEntity>

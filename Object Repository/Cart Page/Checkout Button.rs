@@ -6,12 +6,11 @@
    <elementGuidId>471cb10e-7aad-498f-9075-50c88f048a05</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//dew-block/div/dew-btn[2]/button</value>
+         <key>BASIC</key>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//span[text()='Checkout']/ancestor::button/..</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

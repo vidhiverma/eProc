@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DDS-3898 Verify that the items added from the favorites section should be appended to the already existing items of the cart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e3d1b090-fe3d-47b8-9379-c0462446b946</testCaseGuid>
+</TestCaseEntity>

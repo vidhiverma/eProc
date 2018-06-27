@@ -7,10 +7,13 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value></value>
+         <value>//dew-btn-group/dew-btn[1]/button</value>
       </entry>
       <entry>
          <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>CSS</key>
          <value></value>
       </entry>
    </selectorCollection>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DDS-4241 User should be able to flip the view of the search results to list view from grid view</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1cb9c0af-b158-4e33-bc52-c354ce3816f3</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DDS-3983 On successful deletion of individual item appropriate message should be displayed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d157f0b4-5277-4b76-891c-27300a43196e</testCaseGuid>
+</TestCaseEntity>

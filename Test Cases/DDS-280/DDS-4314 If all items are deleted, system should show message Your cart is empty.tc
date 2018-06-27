@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DDS-4314 If all items are deleted, system should show message Your cart is empty</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ece2e5af-0704-43f0-baaa-d5c87459f676</testCaseGuid>
+</TestCaseEntity>

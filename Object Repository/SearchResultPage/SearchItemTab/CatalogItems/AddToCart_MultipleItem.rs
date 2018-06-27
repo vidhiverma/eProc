@@ -6,12 +6,11 @@
    <elementGuidId>461a32e0-8431-4db3-92c9-975598b1f1dc</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//dew-flex-item[@class='d-block']/dew-btn[2]/button</value>
+         <key>BASIC</key>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//span[text()='Add to cart']/ancestor::button[@class='btn primary']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DDS-4242 In Grid view Catalog item should be displayed in grid format</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5b8e912b-f6d6-4234-8b7b-d3d73839c3d0</testCaseGuid>
+</TestCaseEntity>

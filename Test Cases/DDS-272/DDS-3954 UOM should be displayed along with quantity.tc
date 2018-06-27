@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DDS-3954 UOM should be displayed along with quantity</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>95808bcd-141c-482e-9056-65d9ede23485</testCaseGuid>
+</TestCaseEntity>

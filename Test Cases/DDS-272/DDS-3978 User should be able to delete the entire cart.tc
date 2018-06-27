@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DDS-3978 User should be able to delete the entire cart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ea74b3ff-2dbc-43d9-8c00-2d653cfbae92</testCaseGuid>
+</TestCaseEntity>

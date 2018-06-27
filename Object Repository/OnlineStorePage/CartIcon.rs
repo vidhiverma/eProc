@@ -7,10 +7,14 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value></value>
+         <value>//eproc-spotlight/div[2]/div/div/div[2]/div/eproc-cart-spotlight/div/div/span</value>
       </entry>
       <entry>
          <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
          <value></value>
       </entry>
    </selectorCollection>

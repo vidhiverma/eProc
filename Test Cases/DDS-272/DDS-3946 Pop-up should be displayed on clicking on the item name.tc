@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DDS-3946 Pop-up should be displayed on clicking on the item name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9ecdb7da-ab3a-42b0-a57c-cf2714119c06</testCaseGuid>
+</TestCaseEntity>

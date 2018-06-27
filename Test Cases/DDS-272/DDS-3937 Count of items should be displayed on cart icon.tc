@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DDS-3937 Count of items should be displayed on cart icon</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dbc7b5d6-d269-4aa7-a800-adb4f0433dff</testCaseGuid>
+</TestCaseEntity>

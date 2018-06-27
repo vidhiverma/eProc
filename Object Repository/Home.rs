@@ -6,12 +6,11 @@
    <elementGuidId>7b114de9-c5cb-4e09-b63b-1d74c7016c2a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//dew-breadcrumb/ol/li[1]/a</value>
+         <key>BASIC</key>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//a[text()='Home']/..</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DDS-3985 When entire cart is deleted continue shopping option should be displayed whereas other options should be hidden</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2d7c111c-fe61-44be-b78c-3868a32bf1a3</testCaseGuid>
+</TestCaseEntity>

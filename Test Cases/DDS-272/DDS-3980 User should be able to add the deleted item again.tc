@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DDS-3980 User should be able to add the deleted item again</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>51bba7c1-ead5-4c85-9aec-60e0f6c31e52</testCaseGuid>
+</TestCaseEntity>

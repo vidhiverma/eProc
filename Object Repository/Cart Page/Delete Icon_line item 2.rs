@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//dew-card/table/tbody/tr[2]/td[9]</value>
+         <value>//dew-card/table/tbody/tr[2]/td[9]/dew-icon</value>
       </entry>
       <entry>
          <key>BASIC</key>

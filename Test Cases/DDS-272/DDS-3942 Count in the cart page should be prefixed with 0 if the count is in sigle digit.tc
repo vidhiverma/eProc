@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DDS-3942 Count in the cart page should be prefixed with 0 if the count is in sigle digit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee577063-8dd5-414d-a5df-ea89c092cadb</testCaseGuid>
+</TestCaseEntity>

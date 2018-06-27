@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DDS-3952 Currency in unit price should be as per the product currency</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b3d4a4ed-79c4-4734-bd2c-f2d5474a818b</testCaseGuid>
+</TestCaseEntity>

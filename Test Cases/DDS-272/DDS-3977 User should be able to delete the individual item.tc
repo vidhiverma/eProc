@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DDS-3977 User should be able to delete the individual item</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c28d75cc-4370-4f52-862c-ea1ca8f353fd</testCaseGuid>
+</TestCaseEntity>

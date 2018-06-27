@@ -3,11 +3,11 @@
    <description></description>
    <name>SortByDropdown</name>
    <tag></tag>
-   <elementGuidId>e4e95ba3-e00e-44a9-a7df-0fa2d20d3ad7</elementGuidId>
+   <elementGuidId>9c3f97a2-b0e4-4980-836d-59ac69aea255</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value></value>
+         <value>//dew-dropdown-trigger[text()='Sort by relevance']</value>
       </entry>
       <entry>
          <key>BASIC</key>

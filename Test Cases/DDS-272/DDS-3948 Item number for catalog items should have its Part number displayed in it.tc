@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DDS-3948 Item number for catalog items should have its Part number displayed in it</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f1e1fd3b-cc98-43e6-b5da-a0d6eea8297a</testCaseGuid>
+</TestCaseEntity>

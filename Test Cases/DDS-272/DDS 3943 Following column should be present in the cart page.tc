@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DDS 3943 Following column should be present in the cart page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b74dd876-b7ed-4d24-9069-23a43de9ae24</testCaseGuid>
+</TestCaseEntity>

@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//dew-modal-footer/dew-btn[1]/button</value>
+         <value>//dew-modal[2]/div/div/div[3]/dew-modal-footer/dew-btn[1]/button</value>
       </entry>
       <entry>
          <key>BASIC</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

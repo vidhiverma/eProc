@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DDS-3938 Add a cart item and verify whether count in the cart icon is increased dynamically</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e7ab3278-ee91-4b00-a6bc-c08f1dfc287e</testCaseGuid>
+</TestCaseEntity>

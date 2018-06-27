@@ -6,12 +6,11 @@
    <elementGuidId>026fc046-1ea6-4dab-8f0c-68a517150c87</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//dew-row/dew-col[2]/dew-btn[1]/button</value>
+         <key>BASIC</key>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//span[text()='Add cart to basket']/ancestor::button/..</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

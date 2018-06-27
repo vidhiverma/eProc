@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DDS- 3959 QTY or Amt field should not accept special characters</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f5d5799f-5ad7-4923-8338-e88c4fa44c2d</testCaseGuid>
+</TestCaseEntity>

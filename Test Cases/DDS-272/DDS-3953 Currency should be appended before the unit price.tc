@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DDS-3953 Currency should be appended before the unit price</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1ea8ebd1-5c46-4734-a4f8-ecd54900e0d5</testCaseGuid>
+</TestCaseEntity>

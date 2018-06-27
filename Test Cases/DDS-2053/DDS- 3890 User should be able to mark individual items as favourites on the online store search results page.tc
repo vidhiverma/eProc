@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DDS- 3890 User should be able to mark individual items as favourites on the online store search results page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>02fbf68c-4fc3-4499-bc62-f2c05a2a1cf8</testCaseGuid>
+</TestCaseEntity>

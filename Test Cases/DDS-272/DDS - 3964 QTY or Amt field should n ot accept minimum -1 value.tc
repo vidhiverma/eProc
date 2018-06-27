@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DDS - 3964 QTY or Amt field should n ot accept minimum -1 value</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>10a671dc-c7ce-4799-9824-7c5bb14da6c0</testCaseGuid>
+</TestCaseEntity>

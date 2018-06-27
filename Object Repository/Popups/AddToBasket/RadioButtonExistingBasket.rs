@@ -7,16 +7,13 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value></value>
+         <value>//eproc-add-to-basket-modal/dew-modal/div/div/div[2]/dew-modal-body/div[1]/label[1]/input</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//dew-modal/div/div/div[2]/dew-modal-body/div[1]/label[1]/input</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath</name>
-      <type>Main</type>
-      <value>//eproc-add-to-basket-modal/dew-modal/div/div/div[2]/dew-modal-body/div[1]/label[1]/input</value>
-   </webElementProperties>
 </WebElementEntity>

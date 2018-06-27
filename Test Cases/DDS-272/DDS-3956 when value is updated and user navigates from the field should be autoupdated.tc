@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DDS-3956 when value is updated and user navigates from the field should be autoupdated</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e47596b0-966f-4fc8-8ac3-23533c23bb98</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DDS-3969 When QTYor Amt field value is blank and user navigates to checkout page the quantity should be 1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eeeb4a28-3ddd-4033-99b5-c376143d9acf</testCaseGuid>
+</TestCaseEntity>
