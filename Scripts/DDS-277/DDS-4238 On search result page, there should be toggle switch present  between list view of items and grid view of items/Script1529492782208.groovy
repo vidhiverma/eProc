@@ -21,27 +21,37 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.callTestCase(findTestCase('CommonLibraries/Search By Item'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.waitForPageLoad(10)
+WebUI.waitForElementPresent(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For 1 Row Item List'), 
+    50)
 
-WebUI.click(findTestObject('SearchResultPage/ListViewButton'))
+WebUI.verifyElementText(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Catalog Item List Verification/Item3 For 3 Row'), 
+    'Item3')
 
-WebUI.verifyElementText(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Catalog Item List Verification/Item3 For 3 Row'), 'item 1')
+WebUI.verifyElementText(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Catalog Item List Verification/ITEM1 For 2 Row'), 
+    'ITEM1')
 
-WebUI.verifyElementText(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Catalog Item List Verification/ITEM1 For 2 Row'), 'item 10')
+WebUI.verifyElementText(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Catalog Item List Verification/ITEM1 For 1 row'), 
+    'ITEM1')
 
-WebUI.verifyElementText(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Catalog Item List Verification/ITEM1 For 1 row'), 'item 11')
-
-WebUI.verifyElementText(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Catalog Item List Verification/ITEM89 For 4 Row'), 'item 12')
+WebUI.verifyElementText(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Catalog Item List Verification/ITEM89 For 4 Row'), 
+    'ITEM89')
 
 WebUI.click(findTestObject('SearchResultPage/GridViewButton'))
 
-WebUI.verifyElementText(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Catalog Item List Verification/Item3 For 3 Row'), 'item 1')
+WebUI.waitForElementPresent(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Catalog Item List Verification/ITEM1 For 1 row'), 
+    50)
 
-WebUI.verifyElementText(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Catalog Item List Verification/ITEM1 For 2 Row'), 'item 10')
+WebUI.verifyElementText(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Catalog Item List Verification/Item3 For 3 Row'), 
+    'Item3')
 
-WebUI.verifyElementText(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Catalog Item List Verification/ITEM1 For 1 row'), 'item 11')
+WebUI.verifyElementText(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Catalog Item List Verification/ITEM1 For 2 Row'), 
+    'ITEM1')
 
-WebUI.verifyElementText(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Catalog Item List Verification/ITEM89 For 4 Row'), 'item 12')
+WebUI.verifyElementText(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Catalog Item List Verification/ITEM1 For 1 row'), 
+    'ITEM1')
+
+WebUI.verifyElementText(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Catalog Item List Verification/ITEM89 For 4 Row'), 
+    'ITEM89')
 
 WebUI.closeBrowser()
 

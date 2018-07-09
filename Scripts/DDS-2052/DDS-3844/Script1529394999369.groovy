@@ -19,19 +19,19 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUiBuiltInKe
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
 
-WebUI.callTestCase(findTestCase('CommonLibraries/Search'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('CommonLibraries/Search By Item'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(20)
 
-WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/CheckboxFirstItem'))
+WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For 1 Row Item List'))
 
-WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/CheckboxSecondItem'))
+WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For 2 row item list'))
 
 WebUI.doubleClick(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/AddToBasketMultipleItem'))
 
 WebUI.sendKeys(findTestObject('Popups/AddToBasket/BasketNameInputBox'), 'vidhi11')
 
-WebUI.doubleClick(findTestObject('Popups/AddToBasket/ButtonAddToBasket'))
+WebUI.doubleClick(findTestObject('Popups/AddToBasket/Add To Basket'))
 
 WebUI.delay(5)
 

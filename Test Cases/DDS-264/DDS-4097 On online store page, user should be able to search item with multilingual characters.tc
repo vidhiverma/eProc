@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DDS-4097 On online store page, user should be able to search item with multilingual characters</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>74092fb3-7dfa-46e7-8ab5-9909820d4d2e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,1084 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Run,Firefox 52.0,,2018-07-02 20:30:17,2018-07-02 22:36:00,2h - 5m - 43.364s,FAILED
+,,,,,,
+Test Cases/DDS-2052/DDS-3844,Firefox 52.0,,2018-07-02 20:30:17,2018-07-02 20:32:09,1m - 52.151s,FAILED
+callTestCase,Firefox 52.0,,2018-07-02 20:30:17,2018-07-02 20:30:57,39.513s,PASSED
+delay,Firefox 52.0,,2018-07-02 20:30:57,2018-07-02 20:31:17,20.008s,PASSED
+click,Firefox 52.0,,2018-07-02 20:31:17,2018-07-02 20:31:21,4.321s,PASSED
+click,Firefox 52.0,,2018-07-02 20:31:21,2018-07-02 20:31:21,0.099s,PASSED
+doubleClick,Firefox 52.0,,2018-07-02 20:31:21,2018-07-02 20:31:21,0.236s,PASSED
+sendKeys,Firefox 52.0,,2018-07-02 20:31:21,2018-07-02 20:31:22,0.147s,PASSED
+doubleClick,Firefox 52.0,,2018-07-02 20:31:22,2018-07-02 20:31:22,0.083s,PASSED
+delay,Firefox 52.0,,2018-07-02 20:31:22,2018-07-02 20:31:27,5.001s,PASSED
+back,Firefox 52.0,,2018-07-02 20:31:27,2018-07-02 20:31:27,0.266s,PASSED
+delay,Firefox 52.0,,2018-07-02 20:31:27,2018-07-02 20:31:37,10.002s,PASSED
+doubleClick,Firefox 52.0,,2018-07-02 20:31:37,2018-07-02 20:31:37,0.209s,PASSED
+doubleClick,Firefox 52.0,,2018-07-02 20:31:37,2018-07-02 20:31:37,0.212s,PASSED
+doubleClick,Firefox 52.0,,2018-07-02 20:31:37,2018-07-02 20:32:09,31.715s,FAILED
+,,,,,,
+Test Cases/DDS-2052/DDS-3845,Firefox 52.0,,2018-07-02 20:32:09,2018-07-02 20:32:09,0.098s,ERROR
+callTestCase,Firefox 52.0,,2018-07-02 20:32:09,2018-07-02 20:32:09,0.001s,PASSED
+,,,,,,
+Test Cases/DDS-2052/DDS-3856,Firefox 52.0,,2018-07-02 20:32:09,2018-07-02 20:33:49,1m - 39.456s,FAILED
+callTestCase,Firefox 52.0,,2018-07-02 20:32:09,2018-07-02 20:32:29,19.287s,PASSED
+delay,Firefox 52.0,,2018-07-02 20:32:29,2018-07-02 20:32:39,10.002s,PASSED
+doubleClick,Firefox 52.0,,2018-07-02 20:32:39,2018-07-02 20:32:49,10.105s,PASSED
+"Statement - If (com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementAttributeValue(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Cart Page/Empty Cart Button), ""ng-reflect-is-disabled"", ""false"", 5) == true)",Firefox 52.0,,2018-07-02 20:32:49,2018-07-02 20:32:54,5.800s,PASSED
+back,Firefox 52.0,,2018-07-02 20:32:54,2018-07-02 20:32:55,0.235s,PASSED
+delay,Firefox 52.0,,2018-07-02 20:32:55,2018-07-02 20:33:05,10.003s,PASSED
+sendKeys,Firefox 52.0,,2018-07-02 20:33:05,2018-07-02 20:33:18,12.955s,PASSED
+click,Firefox 52.0,,2018-07-02 20:33:18,2018-07-02 20:33:18,0.243s,PASSED
+delay,Firefox 52.0,,2018-07-02 20:33:18,2018-07-02 20:33:48,30.005s,PASSED
+click,Firefox 52.0,,2018-07-02 20:33:48,2018-07-02 20:33:49,0.680s,FAILED
+,,,,,,
+Test Cases/DDS-2052/DDS-3864,Firefox 52.0,,2018-07-02 20:33:49,2018-07-02 20:34:54,1m - 5.198s,FAILED
+callTestCase,Firefox 52.0,,2018-07-02 20:33:49,2018-07-02 20:34:29,40.034s,PASSED
+waitForElementClickable,Firefox 52.0,,2018-07-02 20:34:29,2018-07-02 20:34:50,20.885s,PASSED
+click,Firefox 52.0,,2018-07-02 20:34:50,2018-07-02 20:34:50,0.146s,PASSED
+click,Firefox 52.0,,2018-07-02 20:34:50,2018-07-02 20:34:50,0.190s,PASSED
+click,Firefox 52.0,,2018-07-02 20:34:50,2018-07-02 20:34:50,0.144s,PASSED
+delay,Firefox 52.0,,2018-07-02 20:34:50,2018-07-02 20:34:52,2.001s,PASSED
+sendKeys,Firefox 52.0,,2018-07-02 20:34:52,2018-07-02 20:34:52,0.225s,PASSED
+click,Firefox 52.0,,2018-07-02 20:34:52,2018-07-02 20:34:53,0.696s,PASSED
+waitForElementVisible,Firefox 52.0,,2018-07-02 20:34:53,2018-07-02 20:34:53,0.037s,PASSED
+click,Firefox 52.0,,2018-07-02 20:34:53,2018-07-02 20:34:53,0.090s,PASSED
+click,Firefox 52.0,,2018-07-02 20:34:53,2018-07-02 20:34:54,0.664s,FAILED
+,,,,,,
+Test Cases/DDS-2052/DDS.3846,Firefox 52.0,,2018-07-02 20:34:54,2018-07-02 20:35:42,48.633s,FAILED
+openBrowser,Firefox 52.0,,2018-07-02 20:34:54,2018-07-02 20:35:04,9.935s,PASSED
+waitForElementVisible,Firefox 52.0,,2018-07-02 20:35:04,2018-07-02 20:35:04,0.078s,PASSED
+sendKeys,Firefox 52.0,,2018-07-02 20:35:04,2018-07-02 20:35:04,0.087s,PASSED
+sendKeys,Firefox 52.0,,2018-07-02 20:35:04,2018-07-02 20:35:04,0.067s,PASSED
+click,Firefox 52.0,,2018-07-02 20:35:04,2018-07-02 20:35:05,1.327s,PASSED
+delay,Firefox 52.0,,2018-07-02 20:35:05,2018-07-02 20:35:10,5.002s,PASSED
+sendKeys,Firefox 52.0,,2018-07-02 20:35:10,2018-07-02 20:35:42,32.011s,FAILED
+,,,,,,
+Test Cases/DDS-2052/DDS.3859,Firefox 52.0,,2018-07-02 20:35:42,2018-07-02 20:36:31,48.095s,FAILED
+openBrowser,Firefox 52.0,,2018-07-02 20:35:43,2018-07-02 20:35:52,9.446s,PASSED
+waitForElementVisible,Firefox 52.0,,2018-07-02 20:35:52,2018-07-02 20:35:52,0.181s,PASSED
+sendKeys,Firefox 52.0,,2018-07-02 20:35:52,2018-07-02 20:35:52,0.069s,PASSED
+sendKeys,Firefox 52.0,,2018-07-02 20:35:52,2018-07-02 20:35:52,0.070s,PASSED
+click,Firefox 52.0,,2018-07-02 20:35:52,2018-07-02 20:35:53,1.098s,PASSED
+delay,Firefox 52.0,,2018-07-02 20:35:53,2018-07-02 20:35:58,5.002s,PASSED
+sendKeys,Firefox 52.0,,2018-07-02 20:35:58,2018-07-02 20:36:31,32.131s,FAILED
+,,,,,,
+Test Cases/DDS-2052/DDS_3840,Firefox 52.0,,2018-07-02 20:36:31,2018-07-02 20:36:31,0.076s,ERROR
+callTestCase,Firefox 52.0,,2018-07-02 20:36:31,2018-07-02 20:36:31,0.000s,PASSED
+,,,,,,
+Test Cases/DDS-2052/DDS_3841,Firefox 52.0,,2018-07-02 20:36:31,2018-07-02 20:36:31,0.068s,ERROR
+callTestCase,Firefox 52.0,,2018-07-02 20:36:31,2018-07-02 20:36:31,0.000s,PASSED
+,,,,,,
+Test Cases/DDS-2052/DDS_3842,Firefox 52.0,,2018-07-02 20:36:31,2018-07-02 20:36:31,0.069s,ERROR
+callTestCase,Firefox 52.0,,2018-07-02 20:36:31,2018-07-02 20:36:31,0.000s,PASSED
+,,,,,,
+Test Cases/DDS-2052/DDS_3843,Firefox 52.0,,2018-07-02 20:36:31,2018-07-02 20:36:31,0.073s,ERROR
+callTestCase,Firefox 52.0,,2018-07-02 20:36:31,2018-07-02 20:36:31,0.000s,PASSED
+,,,,,,
+Test Cases/DDS-2052/DDS_3847,Firefox 52.0,,2018-07-02 20:36:31,2018-07-02 20:37:29,58.618s,FAILED
+callTestCase,Firefox 52.0,,2018-07-02 20:36:31,2018-07-02 20:37:09,37.656s,PASSED
+delay,Firefox 52.0,,2018-07-02 20:37:09,2018-07-02 20:37:29,20.002s,PASSED
+click,Firefox 52.0,,2018-07-02 20:37:29,2018-07-02 20:37:29,0.880s,FAILED
+,,,,,,
+Test Cases/DDS-2052/DDS_3848,Firefox 52.0,,2018-07-02 20:37:29,2018-07-02 20:37:30,0.070s,ERROR
+callTestCase,Firefox 52.0,,2018-07-02 20:37:30,2018-07-02 20:37:30,0.000s,PASSED
+,,,,,,
+Test Cases/DDS-2052/DDS_3849,Firefox 52.0,,2018-07-02 20:37:30,2018-07-02 20:37:30,0.073s,ERROR
+callTestCase,Firefox 52.0,,2018-07-02 20:37:30,2018-07-02 20:37:30,0.001s,PASSED
+,,,,,,
+Test Cases/DDS-2052/DDS_3850,Firefox 52.0,,2018-07-02 20:37:30,2018-07-02 20:37:30,0.082s,ERROR
+callTestCase,Firefox 52.0,,2018-07-02 20:37:30,2018-07-02 20:37:30,0.000s,PASSED
+,,,,,,
+Test Cases/DDS-2052/DDS_3851,Firefox 52.0,,2018-07-02 20:37:30,2018-07-02 20:37:30,0.073s,ERROR
+callTestCase,Firefox 52.0,,2018-07-02 20:37:30,2018-07-02 20:37:30,0.000s,PASSED
+,,,,,,
+Test Cases/DDS-2052/DDS_3852,Firefox 52.0,,2018-07-02 20:37:30,2018-07-02 20:37:30,0.075s,ERROR
+callTestCase,Firefox 52.0,,2018-07-02 20:37:30,2018-07-02 20:37:30,0.000s,PASSED
+,,,,,,
+Test Cases/DDS-2052/DDS_3853,Firefox 52.0,,2018-07-02 20:37:30,2018-07-02 20:37:30,0.072s,ERROR
+callTestCase,Firefox 52.0,,2018-07-02 20:37:30,2018-07-02 20:37:30,0.000s,PASSED
+,,,,,,
+Test Cases/DDS-2052/DDS_3854,Firefox 52.0,,2018-07-02 20:37:30,2018-07-02 20:37:30,0.061s,ERROR
+callTestCase,Firefox 52.0,,2018-07-02 20:37:30,2018-07-02 20:37:30,0.000s,PASSED
+,,,,,,
+Test Cases/DDS-2052/DDS_3855,Firefox 52.0,,2018-07-02 20:37:30,2018-07-02 20:37:30,0.055s,ERROR
+callTestCase,Firefox 52.0,,2018-07-02 20:37:30,2018-07-02 20:37:30,0.000s,PASSED
+,,,,,,
+Test Cases/DDS-2052/DDS_3857,Firefox 52.0,,2018-07-02 20:37:30,2018-07-02 20:37:30,0.063s,ERROR
+callTestCase,Firefox 52.0,,2018-07-02 20:37:30,2018-07-02 20:37:30,0.000s,PASSED
+,,,,,,
+Test Cases/DDS-2052/DDS_3860,Firefox 52.0,,2018-07-02 20:37:30,2018-07-02 20:37:30,0.069s,ERROR
+callTestCase,Firefox 52.0,,2018-07-02 20:37:30,2018-07-02 20:37:30,0.001s,PASSED
+,,,,,,
+Test Cases/DDS-2052/DDS_3861,Firefox 52.0,,2018-07-02 20:37:30,2018-07-02 20:38:11,41.215s,FAILED
+callTestCase,Firefox 52.0,,2018-07-02 20:37:30,2018-07-02 20:37:45,14.981s,PASSED
+delay,Firefox 52.0,,2018-07-02 20:37:45,2018-07-02 20:38:05,20.001s,PASSED
+doubleClick,Firefox 52.0,,2018-07-02 20:38:05,2018-07-02 20:38:06,0.697s,PASSED
+delay,Firefox 52.0,,2018-07-02 20:38:06,2018-07-02 20:38:11,5.002s,PASSED
+"Statement - If (com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementAttributeValue(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Cart Page/Empty Cart Button), ""ng-reflect-is-disabled"", ""false"", 5) == true)",Firefox 52.0,,2018-07-02 20:38:11,2018-07-02 20:38:11,0.451s,FAILED
+,,,,,,
+Test Cases/DDS-2052/DDS_3865,Firefox 52.0,,2018-07-02 20:38:11,2018-07-02 20:38:11,0.054s,ERROR
+callTestCase,Firefox 52.0,,2018-07-02 20:38:11,2018-07-02 20:38:11,0.000s,PASSED
+,,,,,,
+Test Cases/DDS-2052/DDS_3877,Firefox 52.0,,2018-07-02 20:38:11,2018-07-02 20:38:59,47.641s,FAILED
+openBrowser,Firefox 52.0,,2018-07-02 20:38:12,2018-07-02 20:38:21,9.381s,PASSED
+waitForElementVisible,Firefox 52.0,,2018-07-02 20:38:21,2018-07-02 20:38:21,0.070s,PASSED
+sendKeys,Firefox 52.0,,2018-07-02 20:38:21,2018-07-02 20:38:21,0.072s,PASSED
+sendKeys,Firefox 52.0,,2018-07-02 20:38:21,2018-07-02 20:38:21,0.071s,PASSED
+click,Firefox 52.0,,2018-07-02 20:38:21,2018-07-02 20:38:22,1.008s,PASSED
+delay,Firefox 52.0,,2018-07-02 20:38:22,2018-07-02 20:38:27,5.002s,PASSED
+sendKeys,Firefox 52.0,,2018-07-02 20:38:27,2018-07-02 20:38:59,31.952s,FAILED
+,,,,,,
+Test Cases/DDS-2052/DDS_3885,Firefox 52.0,,2018-07-02 20:38:59,2018-07-02 20:38:59,0.052s,ERROR
+callTestCase,Firefox 52.0,,2018-07-02 20:38:59,2018-07-02 20:38:59,0.000s,PASSED
+,,,,,,
+Test Cases/DDS-2052/DDS_3888,Firefox 52.0,,2018-07-02 20:38:59,2018-07-02 20:38:59,0.081s,ERROR
+callTestCase,Firefox 52.0,,2018-07-02 20:38:59,2018-07-02 20:38:59,0.000s,PASSED
+,,,,,,
+Test Cases/DDS-2053/DDS- 3890 User should be able to mark individual items as favourites on the online store search results page,Firefox 52.0,,2018-07-02 20:38:59,2018-07-02 20:40:21,1m - 21.503s,PASSED
+callTestCase,Firefox 52.0,,2018-07-02 20:38:59,2018-07-02 20:39:39,39.391s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 20:39:39,2018-07-02 20:40:15,36.396s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 20:40:15,2018-07-02 20:40:15,0.032s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 20:40:15,2018-07-02 20:40:15,0.014s,PASSED
+"Statement - Attribute1 = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getAttribute(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(SearchResultPage/SearchItemTab/CatalogItems/Favorite Button For ITEM1), ""ng-reflect-icon"")",Firefox 52.0,,2018-07-02 20:40:15,2018-07-02 20:40:15,0.017s,PASSED
+"Statement - Attribute2 = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getAttribute(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(SearchResultPage/SearchItemTab/CatalogItems/Favorite Button For Item3), ""ng-reflect-icon"")",Firefox 52.0,,2018-07-02 20:40:15,2018-07-02 20:40:15,0.022s,PASSED
+"Statement - If (Attribute1 == ""heart-fill"")",Firefox 52.0,,2018-07-02 20:40:15,2018-07-02 20:40:15,0.000s,PASSED
+Statement - Else,Firefox 52.0,,2018-07-02 20:40:15,2018-07-02 20:40:17,2.186s,PASSED
+"Statement - If (Attribute2 == ""heart-fill"")",Firefox 52.0,,2018-07-02 20:40:17,2018-07-02 20:40:17,0.000s,PASSED
+Statement - Else,Firefox 52.0,,2018-07-02 20:40:17,2018-07-02 20:40:21,3.179s,PASSED
+closeBrowser,Firefox 52.0,,2018-07-02 20:40:21,2018-07-02 20:40:21,0.194s,PASSED
+,,,,,,
+Test Cases/DDS-2053/DDS-2890,Firefox 52.0,,2018-07-02 20:40:21,2018-07-02 20:40:21,0.065s,ERROR
+callTestCase,Firefox 52.0,,2018-07-02 20:40:21,2018-07-02 20:40:21,0.000s,PASSED
+,,,,,,
+Test Cases/DDS-2053/DDS-3894 Verify that items marked as favorites should be visible on the favourite section of the online store,Firefox 52.0,,2018-07-02 20:40:21,2018-07-02 20:43:05,2m - 44.391s,FAILED
+callTestCase,Firefox 52.0,,2018-07-02 20:40:21,2018-07-02 20:41:19,57.817s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 20:41:19,2018-07-02 20:42:12,52.996s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 20:42:12,2018-07-02 20:42:22,10.667s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 20:42:22,2018-07-02 20:42:33,10.516s,PASSED
+Statement - Actual1 = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(SearchResultPage/SearchItemTab/CatalogItems/Catalog Item List Verification/ITEM1 For 2 Row)),Firefox 52.0,,2018-07-02 20:42:33,2018-07-02 20:43:05,32.326s,FAILED
+,,,,,,
+"Test Cases/DDS-2053/DDS-3895 When the user clicks on the View all under favorites section, user is navigated to a new window listing down all the favorites under each entity",Firefox 52.0,,2018-07-02 20:43:05,2018-07-02 20:44:25,1m - 20.266s,PASSED
+callTestCase,Firefox 52.0,,2018-07-02 20:43:05,2018-07-02 20:44:02,57.090s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 20:44:02,2018-07-02 20:44:11,8.631s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 20:44:11,2018-07-02 20:44:11,0.001s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 20:44:11,2018-07-02 20:44:11,0.020s,PASSED
+Statement - Actual1 = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(SearchResultPage/SearchItemTab/CatalogItems/Catalog Item List Verification/ITEM1 For 2 Row)),Firefox 52.0,,2018-07-02 20:44:11,2018-07-02 20:44:11,0.032s,PASSED
+Statement - Actual2 = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(SearchResultPage/SearchItemTab/CatalogItems/Catalog Item List Verification/Item3 For 3 Row)),Firefox 52.0,,2018-07-02 20:44:11,2018-07-02 20:44:11,0.018s,PASSED
+"Statement - Attribute1 = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getAttribute(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(SearchResultPage/SearchItemTab/CatalogItems/Favorite Button For ITEM1), ""ng-reflect-icon"")",Firefox 52.0,,2018-07-02 20:44:11,2018-07-02 20:44:11,0.029s,PASSED
+"Statement - Attribute2 = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getAttribute(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(SearchResultPage/SearchItemTab/CatalogItems/Favorite Button For Item3), ""ng-reflect-icon"")",Firefox 52.0,,2018-07-02 20:44:11,2018-07-02 20:44:11,0.020s,PASSED
+"Statement - If (Attribute1 == ""heart-fill"")",Firefox 52.0,,2018-07-02 20:44:11,2018-07-02 20:44:16,5.303s,PASSED
+"Statement - If (Attribute2 == ""heart-fill"")",Firefox 52.0,,2018-07-02 20:44:16,2018-07-02 20:44:22,5.299s,PASSED
+click,Firefox 52.0,,2018-07-02 20:44:22,2018-07-02 20:44:22,0.199s,PASSED
+click,Firefox 52.0,,2018-07-02 20:44:22,2018-07-02 20:44:22,0.185s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 20:44:22,2018-07-02 20:44:24,2.394s,PASSED
+Statement - Exp1 = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(OnlineStorePage/HeaderTab/FavoritesAndPreviouslyUsedTab/Verify ITEM1)),Firefox 52.0,,2018-07-02 20:44:24,2018-07-02 20:44:25,0.030s,PASSED
+Statement - Exp2 = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(OnlineStorePage/HeaderTab/FavoritesAndPreviouslyUsedTab/Verify Item3)),Firefox 52.0,,2018-07-02 20:44:25,2018-07-02 20:44:25,0.027s,PASSED
+verifyMatch,Firefox 52.0,,2018-07-02 20:44:25,2018-07-02 20:44:25,0.004s,PASSED
+verifyMatch,Firefox 52.0,,2018-07-02 20:44:25,2018-07-02 20:44:25,0.001s,PASSED
+click,Firefox 52.0,,2018-07-02 20:44:25,2018-07-02 20:44:25,0.187s,PASSED
+Statement - Val1 = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(OnlineStorePage/HeaderTab/FavoritesAndPreviouslyUsedTab/View All Section/Verify ITEM1)),Firefox 52.0,,2018-07-02 20:44:25,2018-07-02 20:44:25,0.527s,PASSED
+Statement - Val2 = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(OnlineStorePage/HeaderTab/FavoritesAndPreviouslyUsedTab/View All Section/Verify ITEM3)),Firefox 52.0,,2018-07-02 20:44:25,2018-07-02 20:44:25,0.020s,PASSED
+verifyMatch,Firefox 52.0,,2018-07-02 20:44:25,2018-07-02 20:44:25,0.000s,PASSED
+verifyMatch,Firefox 52.0,,2018-07-02 20:44:25,2018-07-02 20:44:25,0.001s,PASSED
+closeBrowser,Firefox 52.0,,2018-07-02 20:44:25,2018-07-02 20:44:25,0.180s,PASSED
+,,,,,,
+Test Cases/DDS-2053/DDS-3898 Verify that the items added from the favorites section should be appended to the already existing items of the cart,Firefox 52.0,,2018-07-02 20:44:25,2018-07-02 20:46:10,1m - 44.926s,PASSED
+callTestCase,Firefox 52.0,,2018-07-02 20:44:26,2018-07-02 20:45:49,1m - 23.026s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 20:45:49,2018-07-02 20:45:57,8.890s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 20:45:57,2018-07-02 20:45:57,0.024s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 20:45:57,2018-07-02 20:45:57,0.022s,PASSED
+Statement - Actual1 = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(SearchResultPage/SearchItemTab/CatalogItems/Catalog Item List Verification/ITEM1 For 2 Row)),Firefox 52.0,,2018-07-02 20:45:57,2018-07-02 20:45:58,0.023s,PASSED
+Statement - Actual2 = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(SearchResultPage/SearchItemTab/CatalogItems/Catalog Item List Verification/Item3 For 3 Row)),Firefox 52.0,,2018-07-02 20:45:58,2018-07-02 20:45:58,0.032s,PASSED
+"Statement - Attribute1 = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getAttribute(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(SearchResultPage/SearchItemTab/CatalogItems/Favorite Button For ITEM1), ""ng-reflect-icon"")",Firefox 52.0,,2018-07-02 20:45:58,2018-07-02 20:45:58,0.075s,PASSED
+"Statement - Attribute2 = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getAttribute(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(SearchResultPage/SearchItemTab/CatalogItems/Favorite Button For Item3), ""ng-reflect-icon"")",Firefox 52.0,,2018-07-02 20:45:58,2018-07-02 20:45:58,0.024s,PASSED
+"Statement - If (Attribute1 == ""heart-fill"")",Firefox 52.0,,2018-07-02 20:45:58,2018-07-02 20:46:03,5.334s,PASSED
+"Statement - If (Attribute2 == ""heart-fill"")",Firefox 52.0,,2018-07-02 20:46:03,2018-07-02 20:46:08,5.364s,PASSED
+click,Firefox 52.0,,2018-07-02 20:46:08,2018-07-02 20:46:09,0.287s,PASSED
+click,Firefox 52.0,,2018-07-02 20:46:09,2018-07-02 20:46:09,0.243s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 20:46:09,2018-07-02 20:46:10,1.417s,PASSED
+Statement - Exp1 = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(OnlineStorePage/HeaderTab/FavoritesAndPreviouslyUsedTab/Verify ITEM1)),Firefox 52.0,,2018-07-02 20:46:10,2018-07-02 20:46:10,0.056s,PASSED
+Statement - Exp2 = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(OnlineStorePage/HeaderTab/FavoritesAndPreviouslyUsedTab/Verify Item3)),Firefox 52.0,,2018-07-02 20:46:10,2018-07-02 20:46:10,0.027s,PASSED
+verifyMatch,Firefox 52.0,,2018-07-02 20:46:10,2018-07-02 20:46:10,0.000s,PASSED
+verifyMatch,Firefox 52.0,,2018-07-02 20:46:10,2018-07-02 20:46:10,0.000s,PASSED
+,,,,,,
+Test Cases/DDS-2053/DDS-3901 Verify that the item name should be a hyperlink which will navigate to the item details pop-up with the following information Specifications,Firefox 52.0,,2018-07-02 20:46:10,2018-07-02 20:47:24,1m - 13.216s,PASSED
+callTestCase,Firefox 52.0,,2018-07-02 20:46:10,2018-07-02 20:47:03,52.489s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 20:47:03,2018-07-02 20:47:11,8.020s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 20:47:11,2018-07-02 20:47:11,0.001s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 20:47:11,2018-07-02 20:47:11,0.020s,PASSED
+Statement - Actual1 = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(SearchResultPage/SearchItemTab/CatalogItems/Catalog Item List Verification/ITEM1 For 2 Row)),Firefox 52.0,,2018-07-02 20:47:11,2018-07-02 20:47:11,0.035s,PASSED
+Statement - Actual2 = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(SearchResultPage/SearchItemTab/CatalogItems/Catalog Item List Verification/Item3 For 3 Row)),Firefox 52.0,,2018-07-02 20:47:11,2018-07-02 20:47:11,0.029s,PASSED
+"Statement - Attribute1 = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getAttribute(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(SearchResultPage/SearchItemTab/CatalogItems/Favorite Button For ITEM1), ""ng-reflect-icon"")",Firefox 52.0,,2018-07-02 20:47:11,2018-07-02 20:47:11,0.013s,PASSED
+"Statement - Attribute2 = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getAttribute(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(SearchResultPage/SearchItemTab/CatalogItems/Favorite Button For Item3), ""ng-reflect-icon"")",Firefox 52.0,,2018-07-02 20:47:11,2018-07-02 20:47:11,0.024s,PASSED
+"Statement - If (Attribute1 == ""heart-fill"")",Firefox 52.0,,2018-07-02 20:47:11,2018-07-02 20:47:16,5.295s,PASSED
+"Statement - If (Attribute2 == ""heart-fill"")",Firefox 52.0,,2018-07-02 20:47:16,2018-07-02 20:47:22,5.305s,PASSED
+click,Firefox 52.0,,2018-07-02 20:47:22,2018-07-02 20:47:22,0.211s,PASSED
+click,Firefox 52.0,,2018-07-02 20:47:22,2018-07-02 20:47:22,0.201s,PASSED
+click,Firefox 52.0,,2018-07-02 20:47:22,2018-07-02 20:47:23,1.087s,PASSED
+click,Firefox 52.0,,2018-07-02 20:47:23,2018-07-02 20:47:23,0.195s,PASSED
+verifyElementText,Firefox 52.0,,2018-07-02 20:47:23,2018-07-02 20:47:23,0.033s,PASSED
+closeBrowser,Firefox 52.0,,2018-07-02 20:47:23,2018-07-02 20:47:24,0.185s,PASSED
+,,,,,,
+Test Cases/DDS-2053/DDS-3902 Verify that the item name should be a hyperlink which will navigate to the item details pop-up with the following information Attachment,Firefox 52.0,,2018-07-02 20:47:24,2018-07-02 20:48:36,1m - 12.331s,PASSED
+callTestCase,Firefox 52.0,,2018-07-02 20:47:24,2018-07-02 20:48:15,51.315s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 20:48:15,2018-07-02 20:48:23,8.118s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 20:48:23,2018-07-02 20:48:23,0.004s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 20:48:23,2018-07-02 20:48:23,0.017s,PASSED
+Statement - Actual1 = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(SearchResultPage/SearchItemTab/CatalogItems/Catalog Item List Verification/ITEM1 For 2 Row)),Firefox 52.0,,2018-07-02 20:48:23,2018-07-02 20:48:23,0.031s,PASSED
+Statement - Actual2 = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(SearchResultPage/SearchItemTab/CatalogItems/Catalog Item List Verification/Item3 For 3 Row)),Firefox 52.0,,2018-07-02 20:48:23,2018-07-02 20:48:23,0.019s,PASSED
+"Statement - Attribute1 = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getAttribute(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(SearchResultPage/SearchItemTab/CatalogItems/Favorite Button For ITEM1), ""ng-reflect-icon"")",Firefox 52.0,,2018-07-02 20:48:23,2018-07-02 20:48:23,0.011s,PASSED
+"Statement - Attribute2 = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getAttribute(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(SearchResultPage/SearchItemTab/CatalogItems/Favorite Button For Item3), ""ng-reflect-icon"")",Firefox 52.0,,2018-07-02 20:48:23,2018-07-02 20:48:23,0.022s,PASSED
+"Statement - If (Attribute1 == ""heart-fill"")",Firefox 52.0,,2018-07-02 20:48:23,2018-07-02 20:48:29,5.324s,PASSED
+"Statement - If (Attribute2 == ""heart-fill"")",Firefox 52.0,,2018-07-02 20:48:29,2018-07-02 20:48:34,5.298s,PASSED
+click,Firefox 52.0,,2018-07-02 20:48:34,2018-07-02 20:48:34,0.186s,PASSED
+click,Firefox 52.0,,2018-07-02 20:48:34,2018-07-02 20:48:34,0.116s,PASSED
+click,Firefox 52.0,,2018-07-02 20:48:34,2018-07-02 20:48:36,1.423s,PASSED
+click,Firefox 52.0,,2018-07-02 20:48:36,2018-07-02 20:48:36,0.193s,PASSED
+verifyElementText,Firefox 52.0,,2018-07-02 20:48:36,2018-07-02 20:48:36,0.018s,PASSED
+closeBrowser,Firefox 52.0,,2018-07-02 20:48:36,2018-07-02 20:48:36,0.166s,PASSED
+,,,,,,
+Test Cases/DDS-2053/DDS-3903,Firefox 52.0,,2018-07-02 20:48:36,2018-07-02 20:48:36,0.075s,ERROR
+callTestCase,Firefox 52.0,,2018-07-02 20:48:36,2018-07-02 20:48:36,0.000s,PASSED
+,,,,,,
+Test Cases/DDS-2053/DDS-3905,Firefox 52.0,,2018-07-02 20:48:36,2018-07-02 20:49:26,50.434s,FAILED
+callTestCase,Firefox 52.0,,2018-07-02 20:48:36,2018-07-02 20:49:26,50.042s,PASSED
+doubleClick,Firefox 52.0,,2018-07-02 20:49:26,2018-07-02 20:49:26,0.323s,FAILED
+,,,,,,
+Test Cases/DDS-2053/DDS-3906 User should be able to remove item(s) from the favourites section,Firefox 52.0,,2018-07-02 20:49:26,2018-07-02 20:51:19,1m - 52.218s,FAILED
+callTestCase,Firefox 52.0,,2018-07-02 20:49:27,2018-07-02 20:50:14,47.773s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 20:50:14,2018-07-02 20:50:20,6.116s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 20:50:20,2018-07-02 20:50:20,0.020s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 20:50:20,2018-07-02 20:50:20,0.016s,PASSED
+"Statement - Attribute1 = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getAttribute(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(SearchResultPage/SearchItemTab/CatalogItems/Favorite Button For ITEM1), ""ng-reflect-icon"")",Firefox 52.0,,2018-07-02 20:50:20,2018-07-02 20:50:20,0.017s,PASSED
+"Statement - Attribute2 = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getAttribute(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(SearchResultPage/SearchItemTab/CatalogItems/Favorite Button For Item3), ""ng-reflect-icon"")",Firefox 52.0,,2018-07-02 20:50:20,2018-07-02 20:50:20,0.014s,PASSED
+"Statement - If (Attribute1 == ""heart-fill"")",Firefox 52.0,,2018-07-02 20:50:20,2018-07-02 20:50:26,5.361s,PASSED
+"Statement - If (Attribute2 == ""heart-fill"")",Firefox 52.0,,2018-07-02 20:50:26,2018-07-02 20:50:31,5.366s,PASSED
+click,Firefox 52.0,,2018-07-02 20:50:31,2018-07-02 20:50:32,0.434s,PASSED
+click,Firefox 52.0,,2018-07-02 20:50:32,2018-07-02 20:50:33,0.991s,PASSED
+delay,Firefox 52.0,,2018-07-02 20:50:33,2018-07-02 20:50:35,2.002s,PASSED
+click,Firefox 52.0,,2018-07-02 20:50:35,2018-07-02 20:50:35,0.263s,PASSED
+delay,Firefox 52.0,,2018-07-02 20:50:35,2018-07-02 20:50:39,4.000s,PASSED
+click,Firefox 52.0,,2018-07-02 20:50:39,2018-07-02 20:50:39,0.113s,PASSED
+delay,Firefox 52.0,,2018-07-02 20:50:39,2018-07-02 20:50:43,4.001s,PASSED
+click,Firefox 52.0,,2018-07-02 20:50:43,2018-07-02 20:50:43,0.113s,PASSED
+delay,Firefox 52.0,,2018-07-02 20:50:43,2018-07-02 20:50:47,4.001s,PASSED
+click,Firefox 52.0,,2018-07-02 20:50:47,2018-07-02 20:51:19,31.537s,FAILED
+,,,,,,
+Test Cases/DDS-264/DDS-4093 User should be able to enter the name of the item in the search box,Firefox 52.0,,2018-07-02 20:51:19,2018-07-02 20:52:13,54.149s,PASSED
+callTestCase,Firefox 52.0,,2018-07-02 20:51:19,2018-07-02 20:51:34,15.127s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 20:51:34,2018-07-02 20:52:06,32.453s,PASSED
+sendKeys,Firefox 52.0,,2018-07-02 20:52:06,2018-07-02 20:52:08,1.794s,PASSED
+click,Firefox 52.0,,2018-07-02 20:52:08,2018-07-02 20:52:08,0.318s,PASSED
+verifyElementAttributeValue,Firefox 52.0,,2018-07-02 20:52:08,2018-07-02 20:52:13,4.207s,PASSED
+closeBrowser,Firefox 52.0,,2018-07-02 20:52:13,2018-07-02 20:52:13,0.185s,PASSED
+,,,,,,
+Test Cases/DDS-264/DDS-4094 search by type section should be displayed on entering the name of the text,Firefox 52.0,,2018-07-02 20:52:13,2018-07-02 20:53:44,1m - 31.101s,PASSED
+callTestCase,Firefox 52.0,,2018-07-02 20:52:13,2018-07-02 20:53:05,51.659s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 20:53:05,2018-07-02 20:53:44,39.337s,PASSED
+"Statement - Value = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(SearchResultPage/SearchItemTab/CatalogItems/Catalog Item List Verification/Laptop For 1 Row), STOP_ON_FAILURE)",Firefox 52.0,,2018-07-02 20:53:44,2018-07-02 20:53:44,0.021s,PASSED
+verifyMatch,Firefox 52.0,,2018-07-02 20:53:44,2018-07-02 20:53:44,0.016s,PASSED
+,,,,,,
+Test Cases/DDS-264/DDS-4096  Cant find what u are looking for  Create request option  should be displayed below search type after typing item name in the search box,Firefox 52.0,,2018-07-02 20:53:44,2018-07-02 20:54:30,46.413s,PASSED
+callTestCase,Firefox 52.0,,2018-07-02 20:53:44,2018-07-02 20:54:01,16.556s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 20:54:01,2018-07-02 20:54:29,28.879s,PASSED
+sendKeys,Firefox 52.0,,2018-07-02 20:54:29,2018-07-02 20:54:30,0.399s,PASSED
+click,Firefox 52.0,,2018-07-02 20:54:30,2018-07-02 20:54:30,0.290s,PASSED
+verifyElementText,Firefox 52.0,,2018-07-02 20:54:30,2018-07-02 20:54:30,0.041s,PASSED
+closeBrowser,Firefox 52.0,,2018-07-02 20:54:30,2018-07-02 20:54:30,0.175s,PASSED
+,,,,,,
+"Test Cases/DDS-264/DDS-4097 On online store page, user should be able to search item with multilingual characters",Firefox 52.0,,2018-07-02 20:54:30,2018-07-02 20:55:24,53.578s,PASSED
+callTestCase,Firefox 52.0,,2018-07-02 20:54:30,2018-07-02 20:54:45,14.216s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 20:54:45,2018-07-02 20:55:19,34.223s,PASSED
+sendKeys,Firefox 52.0,,2018-07-02 20:55:19,2018-07-02 20:55:19,0.388s,PASSED
+click,Firefox 52.0,,2018-07-02 20:55:19,2018-07-02 20:55:19,0.278s,PASSED
+verifyElementAttributeValue,Firefox 52.0,,2018-07-02 20:55:19,2018-07-02 20:55:24,4.236s,PASSED
+closeBrowser,Firefox 52.0,,2018-07-02 20:55:24,2018-07-02 20:55:24,0.176s,PASSED
+,,,,,,
+"Test Cases/DDS-264/DDS-4098 On online store page, user should be able to search item with xss character",Firefox 52.0,,2018-07-02 20:55:24,2018-07-02 20:55:24,0.065s,ERROR
+callTestCase,Firefox 52.0,,2018-07-02 20:55:24,2018-07-02 20:55:24,0.000s,PASSED
+,,,,,,
+Test Cases/DDS-264/DDS-4099 On online store page user should be able to search item with special characters,Firefox 52.0,,2018-07-02 20:55:24,2018-07-02 20:56:20,56.000s,PASSED
+callTestCase,Firefox 52.0,,2018-07-02 20:55:24,2018-07-02 20:55:39,15.198s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 20:55:39,2018-07-02 20:56:15,35.589s,PASSED
+sendKeys,Firefox 52.0,,2018-07-02 20:56:15,2018-07-02 20:56:15,0.440s,PASSED
+click,Firefox 52.0,,2018-07-02 20:56:15,2018-07-02 20:56:16,0.286s,PASSED
+verifyElementAttributeValue,Firefox 52.0,,2018-07-02 20:56:16,2018-07-02 20:56:20,4.201s,PASSED
+closeBrowser,Firefox 52.0,,2018-07-02 20:56:20,2018-07-02 20:56:20,0.216s,PASSED
+,,,,,,
+"Test Cases/DDS-264/DDS-4100 On online store page, user should be able to search item with numeric  characters",Firefox 52.0,,2018-07-02 20:56:20,2018-07-02 20:57:21,1m - 1.088s,PASSED
+callTestCase,Firefox 52.0,,2018-07-02 20:56:20,2018-07-02 20:56:35,14.792s,PASSED
+sendKeys,Firefox 52.0,,2018-07-02 20:56:35,2018-07-02 20:57:13,37.687s,PASSED
+click,Firefox 52.0,,2018-07-02 20:57:13,2018-07-02 20:57:13,0.297s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 20:57:13,2018-07-02 20:57:21,8.044s,PASSED
+verifyElementText,Firefox 52.0,,2018-07-02 20:57:21,2018-07-02 20:57:21,0.025s,PASSED
+closeBrowser,Firefox 52.0,,2018-07-02 20:57:21,2018-07-02 20:57:21,0.169s,PASSED
+,,,,,,
+Test Cases/DDS-264/DDS-4101 Item search should perform text-based search in various catalog field such as item name and show all those items on search result page,Firefox 52.0,,2018-07-02 20:57:21,2018-07-02 20:58:44,1m - 22.474s,PASSED
+callTestCase,Firefox 52.0,,2018-07-02 20:57:21,2018-07-02 20:57:37,16.286s,PASSED
+sendKeys,Firefox 52.0,,2018-07-02 20:57:37,2018-07-02 20:58:11,33.483s,PASSED
+click,Firefox 52.0,,2018-07-02 20:58:11,2018-07-02 20:58:11,0.331s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 20:58:11,2018-07-02 20:58:43,32.109s,PASSED
+verifyElementText,Firefox 52.0,,2018-07-02 20:58:43,2018-07-02 20:58:43,0.031s,PASSED
+closeBrowser,Firefox 52.0,,2018-07-02 20:58:43,2018-07-02 20:58:44,0.167s,PASSED
+,,,,,,
+Test Cases/DDS-264/DDS-4102,Firefox 52.0,,2018-07-02 20:58:44,2018-07-02 20:58:44,0.063s,ERROR
+callTestCase,Firefox 52.0,,2018-07-02 20:58:44,2018-07-02 20:58:44,0.000s,PASSED
+,,,,,,
+Test Cases/DDS-264/DDS-4103 Item search should perform text-based  search in various catalog field such as  mfr name and show all those items on search result page,Firefox 52.0,,2018-07-02 20:58:44,2018-07-02 20:59:58,1m - 14.531s,PASSED
+callTestCase,Firefox 52.0,,2018-07-02 20:58:44,2018-07-02 20:58:59,14.873s,PASSED
+sendKeys,Firefox 52.0,,2018-07-02 20:58:59,2018-07-02 20:59:34,35.744s,PASSED
+click,Firefox 52.0,,2018-07-02 20:59:34,2018-07-02 20:59:35,0.323s,PASSED
+waitForElementVisible,Firefox 52.0,,2018-07-02 20:59:35,2018-07-02 20:59:55,20.791s,PASSED
+delay,Firefox 52.0,,2018-07-02 20:59:55,2018-07-02 20:59:57,2.000s,PASSED
+takeScreenshot,Firefox 52.0,,2018-07-02 20:59:57,2018-07-02 20:59:58,0.552s,PASSED
+closeBrowser,Firefox 52.0,,2018-07-02 20:59:58,2018-07-02 20:59:58,0.184s,PASSED
+,,,,,,
+Test Cases/DDS-264/DDS-4104 Item search should perform text-based search in various catalog field such as supplier name and show all those items on search result page,Firefox 52.0,,2018-07-02 20:59:58,2018-07-02 21:01:34,1m - 35.927s,PASSED
+callTestCase,Firefox 52.0,,2018-07-02 20:59:58,2018-07-02 21:00:13,14.820s,PASSED
+sendKeys,Firefox 52.0,,2018-07-02 21:00:13,2018-07-02 21:00:52,39.195s,PASSED
+click,Firefox 52.0,,2018-07-02 21:00:52,2018-07-02 21:00:52,0.265s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 21:00:52,2018-07-02 21:01:33,40.847s,PASSED
+verifyElementText,Firefox 52.0,,2018-07-02 21:01:33,2018-07-02 21:01:33,0.051s,PASSED
+takeScreenshot,Firefox 52.0,,2018-07-02 21:01:33,2018-07-02 21:01:34,0.517s,PASSED
+closeBrowser,Firefox 52.0,,2018-07-02 21:01:34,2018-07-02 21:01:34,0.177s,PASSED
+,,,,,,
+Test Cases/DDS-264/DDS-4105 Item search should perform text-based search in various catalog field such as mfr part ID and show all those items on search result page,Firefox 52.0,,2018-07-02 21:01:34,2018-07-02 21:02:38,1m - 4.072s,PASSED
+callTestCase,Firefox 52.0,,2018-07-02 21:01:34,2018-07-02 21:01:49,15.057s,PASSED
+sendKeys,Firefox 52.0,,2018-07-02 21:01:49,2018-07-02 21:02:24,34.420s,PASSED
+click,Firefox 52.0,,2018-07-02 21:02:24,2018-07-02 21:02:24,0.363s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 21:02:24,2018-07-02 21:02:35,10.904s,PASSED
+scrollToElement,Firefox 52.0,,2018-07-02 21:02:35,2018-07-02 21:02:35,0.058s,PASSED
+click,Firefox 52.0,,2018-07-02 21:02:35,2018-07-02 21:02:35,0.213s,PASSED
+verifyElementText,Firefox 52.0,,2018-07-02 21:02:35,2018-07-02 21:02:36,0.564s,PASSED
+delay,Firefox 52.0,,2018-07-02 21:02:36,2018-07-02 21:02:38,2.001s,PASSED
+takeScreenshot,Firefox 52.0,,2018-07-02 21:02:38,2018-07-02 21:02:38,0.247s,PASSED
+closeBrowser,Firefox 52.0,,2018-07-02 21:02:38,2018-07-02 21:02:38,0.189s,PASSED
+,,,,,,
+Test Cases/DDS-264/DDS-4106 Item search should perform text-based search in various catalog field such as item desc and show all those items on search result page,Firefox 52.0,,2018-07-02 21:02:38,2018-07-02 21:03:38,59.528s,PASSED
+callTestCase,Firefox 52.0,,2018-07-02 21:02:38,2018-07-02 21:02:55,17.081s,PASSED
+sendKeys,Firefox 52.0,,2018-07-02 21:02:55,2018-07-02 21:03:26,30.502s,PASSED
+click,Firefox 52.0,,2018-07-02 21:03:26,2018-07-02 21:03:26,0.359s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 21:03:26,2018-07-02 21:03:37,10.813s,PASSED
+verifyElementText,Firefox 52.0,,2018-07-02 21:03:37,2018-07-02 21:03:37,0.032s,PASSED
+takeScreenshot,Firefox 52.0,,2018-07-02 21:03:37,2018-07-02 21:03:37,0.518s,PASSED
+closeBrowser,Firefox 52.0,,2018-07-02 21:03:37,2018-07-02 21:03:38,0.168s,PASSED
+,,,,,,
+Test Cases/DDS-264/DDS-4107 Item search should perform text-based search in various catalog field such as  ERP ID and show all those items on search result page,Firefox 52.0,,2018-07-02 21:03:38,2018-07-02 21:04:46,1m - 8.591s,PASSED
+callTestCase,Firefox 52.0,,2018-07-02 21:03:38,2018-07-02 21:03:54,16.699s,PASSED
+sendKeys,Firefox 52.0,,2018-07-02 21:03:54,2018-07-02 21:04:28,34.072s,PASSED
+click,Firefox 52.0,,2018-07-02 21:04:28,2018-07-02 21:04:29,0.325s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 21:04:29,2018-07-02 21:04:43,14.156s,PASSED
+click,Firefox 52.0,,2018-07-02 21:04:43,2018-07-02 21:04:43,0.204s,PASSED
+verifyElementText,Firefox 52.0,,2018-07-02 21:04:43,2018-07-02 21:04:44,0.565s,PASSED
+delay,Firefox 52.0,,2018-07-02 21:04:44,2018-07-02 21:04:46,2.001s,PASSED
+takeScreenshot,Firefox 52.0,,2018-07-02 21:04:46,2018-07-02 21:04:46,0.325s,PASSED
+closeBrowser,Firefox 52.0,,2018-07-02 21:04:46,2018-07-02 21:04:46,0.189s,PASSED
+,,,,,,
+Test Cases/DDS-264/DDS-4108,Firefox 52.0,,2018-07-02 21:04:46,2018-07-02 21:04:46,0.065s,ERROR
+callTestCase,Firefox 52.0,,2018-07-02 21:04:46,2018-07-02 21:04:46,0.000s,PASSED
+,,,,,,
+Test Cases/DDS-264/DDS-4109 User should be able to view the search results in order of relevance mentioned,Firefox 52.0,,2018-07-02 21:04:46,2018-07-02 21:06:28,1m - 41.343s,PASSED
+callTestCase,Firefox 52.0,,2018-07-02 21:04:46,2018-07-02 21:05:44,57.375s,PASSED
+waitForElementVisible,Firefox 52.0,,2018-07-02 21:05:44,2018-07-02 21:06:27,43.249s,PASSED
+takeScreenshot,Firefox 52.0,,2018-07-02 21:06:27,2018-07-02 21:06:27,0.472s,PASSED
+closeBrowser,Firefox 52.0,,2018-07-02 21:06:27,2018-07-02 21:06:28,0.190s,PASSED
+,,,,,,
+"Test Cases/DDS-264/DDS-4110 System should display the number of results found, along with the search text",Firefox 52.0,,2018-07-02 21:06:28,2018-07-02 21:07:43,1m - 15.446s,PASSED
+callTestCase,Firefox 52.0,,2018-07-02 21:06:28,2018-07-02 21:07:20,52.083s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 21:07:20,2018-07-02 21:07:33,12.807s,PASSED
+delay,Firefox 52.0,,2018-07-02 21:07:33,2018-07-02 21:07:43,10.002s,PASSED
+takeScreenshot,Firefox 52.0,,2018-07-02 21:07:43,2018-07-02 21:07:43,0.501s,PASSED
+,,,,,,
+"Test Cases/DDS-264/DDS-4111 On search result page Verbiage in the title should be , Showing 1 of 1 results of item",Firefox 52.0,,2018-07-02 21:07:43,2018-07-02 21:08:57,1m - 14.329s,PASSED
+callTestCase,Firefox 52.0,,2018-07-02 21:07:43,2018-07-02 21:08:33,49.380s,PASSED
+waitForElementVisible,Firefox 52.0,,2018-07-02 21:08:33,2018-07-02 21:08:57,24.160s,PASSED
+scrollToElement,Firefox 52.0,,2018-07-02 21:08:57,2018-07-02 21:08:57,0.022s,PASSED
+takeScreenshot,Firefox 52.0,,2018-07-02 21:08:57,2018-07-02 21:08:57,0.523s,PASSED
+closeBrowser,Firefox 52.0,,2018-07-02 21:08:57,2018-07-02 21:08:57,0.189s,PASSED
+,,,,,,
+Test Cases/DDS-264/DDS-4112 User should be able to view product details by clicking on the item description,Firefox 52.0,,2018-07-02 21:08:57,2018-07-02 21:10:19,1m - 21.903s,PASSED
+callTestCase,Firefox 52.0,,2018-07-02 21:08:57,2018-07-02 21:09:47,49.383s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 21:09:47,2018-07-02 21:10:17,29.820s,PASSED
+click,Firefox 52.0,,2018-07-02 21:10:17,2018-07-02 21:10:17,0.199s,PASSED
+delay,Firefox 52.0,,2018-07-02 21:10:17,2018-07-02 21:10:19,2.002s,PASSED
+takeScreenshot,Firefox 52.0,,2018-07-02 21:10:19,2018-07-02 21:10:19,0.272s,PASSED
+closeBrowser,Firefox 52.0,,2018-07-02 21:10:19,2018-07-02 21:10:19,0.172s,PASSED
+,,,,,,
+Test Cases/DDS-264/DDS-4119 Out of Stock should be displayed within search results with a Out of Stock label in red in front of the lead time,Firefox 52.0,,2018-07-02 21:10:19,2018-07-02 21:11:37,1m - 17.716s,PASSED
+callTestCase,Firefox 52.0,,2018-07-02 21:10:19,2018-07-02 21:10:36,16.790s,PASSED
+sendKeys,Firefox 52.0,,2018-07-02 21:10:36,2018-07-02 21:11:10,33.661s,PASSED
+click,Firefox 52.0,,2018-07-02 21:11:10,2018-07-02 21:11:10,0.349s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 21:11:10,2018-07-02 21:11:37,26.658s,PASSED
+verifyElementAttributeValue,Firefox 52.0,,2018-07-02 21:11:37,2018-07-02 21:11:37,0.023s,PASSED
+closeBrowser,Firefox 52.0,,2018-07-02 21:11:37,2018-07-02 21:11:37,0.169s,PASSED
+,,,,,,
+Test Cases/DDS-266/DDS-4206,Firefox 52.0,,2018-07-02 21:11:37,2018-07-02 21:11:37,0.072s,ERROR
+callTestCase,Firefox 52.0,,2018-07-02 21:11:37,2018-07-02 21:11:37,0.000s,PASSED
+,,,,,,
+Test Cases/DDS-272/DDS - 3964 QTY or Amt field should n ot accept minimum -1 value,Firefox 52.0,,2018-07-02 21:11:37,2018-07-02 21:12:44,1m - 7.009s,PASSED
+callTestCase,Firefox 52.0,,2018-07-02 21:11:37,2018-07-02 21:12:29,51.918s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 21:12:29,2018-07-02 21:12:40,11.314s,PASSED
+click,Firefox 52.0,,2018-07-02 21:12:40,2018-07-02 21:12:41,0.106s,PASSED
+click,Firefox 52.0,,2018-07-02 21:12:41,2018-07-02 21:12:41,0.078s,PASSED
+click,Firefox 52.0,,2018-07-02 21:12:41,2018-07-02 21:12:41,0.148s,PASSED
+delay,Firefox 52.0,,2018-07-02 21:12:41,2018-07-02 21:12:44,3.000s,PASSED
+sendKeys,Firefox 52.0,,2018-07-02 21:12:44,2018-07-02 21:12:44,0.091s,PASSED
+click,Firefox 52.0,,2018-07-02 21:12:44,2018-07-02 21:12:44,0.080s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 21:12:44,2018-07-02 21:12:44,0.000s,PASSED
+verifyElementText,Firefox 52.0,,2018-07-02 21:12:44,2018-07-02 21:12:44,0.031s,PASSED
+closeBrowser,Firefox 52.0,,2018-07-02 21:12:44,2018-07-02 21:12:44,0.164s,PASSED
+,,,,,,
+Test Cases/DDS-272/DDS 3939 login to a different window with same credentials and add the item verify whether in other window count in the cart increases dynamically,Firefox 52.0,,2018-07-02 21:12:44,2018-07-02 21:14:43,1m - 59.151s,PASSED
+callTestCase,Firefox 52.0,,2018-07-02 21:12:44,2018-07-02 21:12:59,15.220s,PASSED
+click,Firefox 52.0,,2018-07-02 21:12:59,2018-07-02 21:13:45,45.947s,PASSED
+delay,Firefox 52.0,,2018-07-02 21:13:45,2018-07-02 21:13:48,3.001s,PASSED
+"Statement - b = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getAttribute(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Cart Page/Empty Cart Button), ""ng-reflect-is-disabled"")",Firefox 52.0,,2018-07-02 21:13:48,2018-07-02 21:13:48,0.045s,PASSED
+"Statement - If (b == ""false"")",Firefox 52.0,,2018-07-02 21:13:48,2018-07-02 21:14:43,54.845s,PASSED
+,,,,,,
+Test Cases/DDS-272/DDS 3940 Cart page header should display the count of the items in it,Firefox 52.0,,2018-07-02 21:14:43,2018-07-02 21:16:02,1m - 19.108s,PASSED
+callTestCase,Firefox 52.0,,2018-07-02 21:14:43,2018-07-02 21:14:59,15.801s,PASSED
+click,Firefox 52.0,,2018-07-02 21:14:59,2018-07-02 21:15:34,34.768s,PASSED
+delay,Firefox 52.0,,2018-07-02 21:15:34,2018-07-02 21:15:37,3.001s,PASSED
+"Statement - b = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getAttribute(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Cart Page/Empty Cart Button), ""ng-reflect-is-disabled"")",Firefox 52.0,,2018-07-02 21:15:37,2018-07-02 21:15:37,0.030s,PASSED
+"Statement - If (b == ""false"")",Firefox 52.0,,2018-07-02 21:15:37,2018-07-02 21:16:02,25.428s,PASSED
+,,,,,,
+Test Cases/DDS-272/DDS 3943 Following column should be present in the cart page,Firefox 52.0,,2018-07-02 21:16:02,2018-07-02 21:17:13,1m - 10.676s,PASSED
+callTestCase,Firefox 52.0,,2018-07-02 21:16:02,2018-07-02 21:16:54,51.364s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 21:16:54,2018-07-02 21:17:12,18.476s,PASSED
+click,Firefox 52.0,,2018-07-02 21:17:12,2018-07-02 21:17:12,0.108s,PASSED
+click,Firefox 52.0,,2018-07-02 21:17:12,2018-07-02 21:17:12,0.083s,PASSED
+click,Firefox 52.0,,2018-07-02 21:17:12,2018-07-02 21:17:13,0.152s,PASSED
+waitForPageLoad,Firefox 52.0,,2018-07-02 21:17:13,2018-07-02 21:17:13,0.128s,PASSED
+verifyElementText,Firefox 52.0,,2018-07-02 21:17:13,2018-07-02 21:17:13,0.016s,PASSED
+verifyElementText,Firefox 52.0,,2018-07-02 21:17:13,2018-07-02 21:17:13,0.025s,PASSED
+verifyElementText,Firefox 52.0,,2018-07-02 21:17:13,2018-07-02 21:17:13,0.042s,PASSED
+verifyElementText,Firefox 52.0,,2018-07-02 21:17:13,2018-07-02 21:17:13,0.020s,PASSED
+verifyElementText,Firefox 52.0,,2018-07-02 21:17:13,2018-07-02 21:17:13,0.020s,PASSED
+verifyElementText,Firefox 52.0,,2018-07-02 21:17:13,2018-07-02 21:17:13,0.017s,PASSED
+verifyElementText,Firefox 52.0,,2018-07-02 21:17:13,2018-07-02 21:17:13,0.006s,PASSED
+closeBrowser,Firefox 52.0,,2018-07-02 21:17:13,2018-07-02 21:17:13,0.166s,PASSED
+,,,,,,
+Test Cases/DDS-272/DDS- 3959 QTY or Amt field should not accept special characters,Firefox 52.0,,2018-07-02 21:17:13,2018-07-02 21:18:06,52.964s,PASSED
+callTestCase,Firefox 52.0,,2018-07-02 21:17:13,2018-07-02 21:17:57,43.745s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 21:17:57,2018-07-02 21:18:05,7.821s,PASSED
+click,Firefox 52.0,,2018-07-02 21:18:05,2018-07-02 21:18:05,0.095s,PASSED
+click,Firefox 52.0,,2018-07-02 21:18:05,2018-07-02 21:18:05,0.092s,PASSED
+click,Firefox 52.0,,2018-07-02 21:18:05,2018-07-02 21:18:05,0.177s,PASSED
+sendKeys,Firefox 52.0,,2018-07-02 21:18:05,2018-07-02 21:18:06,0.681s,PASSED
+click,Firefox 52.0,,2018-07-02 21:18:06,2018-07-02 21:18:06,0.073s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 21:18:06,2018-07-02 21:18:06,0.010s,PASSED
+verifyElementText,Firefox 52.0,,2018-07-02 21:18:06,2018-07-02 21:18:06,0.013s,PASSED
+closeBrowser,Firefox 52.0,,2018-07-02 21:18:06,2018-07-02 21:18:06,0.197s,PASSED
+,,,,,,
+Test Cases/DDS-272/DDS- 3967 When 0 is entered in QTYor Amt field and navigated away field should be blanked and Popup should be displayed,Firefox 52.0,,2018-07-02 21:18:06,2018-07-02 21:18:59,52.662s,PASSED
+callTestCase,Firefox 52.0,,2018-07-02 21:18:06,2018-07-02 21:18:51,44.650s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 21:18:51,2018-07-02 21:18:58,6.733s,PASSED
+click,Firefox 52.0,,2018-07-02 21:18:58,2018-07-02 21:18:58,0.096s,PASSED
+click,Firefox 52.0,,2018-07-02 21:18:58,2018-07-02 21:18:58,0.084s,PASSED
+click,Firefox 52.0,,2018-07-02 21:18:58,2018-07-02 21:18:58,0.177s,PASSED
+sendKeys,Firefox 52.0,,2018-07-02 21:18:58,2018-07-02 21:18:58,0.571s,PASSED
+click,Firefox 52.0,,2018-07-02 21:18:58,2018-07-02 21:18:59,0.079s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 21:18:59,2018-07-02 21:18:59,0.009s,PASSED
+verifyElementText,Firefox 52.0,,2018-07-02 21:18:59,2018-07-02 21:18:59,0.014s,PASSED
+closeBrowser,Firefox 52.0,,2018-07-02 21:18:59,2018-07-02 21:18:59,0.172s,PASSED
+,,,,,,
+Test Cases/DDS-272/DDS-3933 Cart icon should be clickable,Firefox 52.0,,2018-07-02 21:18:59,2018-07-02 21:19:46,46.788s,PASSED
+callTestCase,Firefox 52.0,,2018-07-02 21:18:59,2018-07-02 21:19:16,16.904s,PASSED
+verifyElementClickable,Firefox 52.0,,2018-07-02 21:19:16,2018-07-02 21:19:46,29.812s,PASSED
+,,,,,,
+Test Cases/DDS-272/DDS-3935 On clicking on cart icon cart page should be displayed,Firefox 52.0,,2018-07-02 21:19:46,2018-07-02 21:20:45,59.772s,PASSED
+callTestCase,Firefox 52.0,,2018-07-02 21:19:46,2018-07-02 21:20:33,47.796s,PASSED
+waitForElementClickable,Firefox 52.0,,2018-07-02 21:20:33,2018-07-02 21:20:42,8.293s,PASSED
+click,Firefox 52.0,,2018-07-02 21:20:42,2018-07-02 21:20:42,0.094s,PASSED
+click,Firefox 52.0,,2018-07-02 21:20:42,2018-07-02 21:20:42,0.088s,PASSED
+click,Firefox 52.0,,2018-07-02 21:20:42,2018-07-02 21:20:42,0.135s,PASSED
+Statement - url = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getUrl(),Firefox 52.0,,2018-07-02 21:20:42,2018-07-02 21:20:42,0.031s,PASSED
+verifyMatch,Firefox 52.0,,2018-07-02 21:20:42,2018-07-02 21:20:42,0.000s,PASSED
+delay,Firefox 52.0,,2018-07-02 21:20:42,2018-07-02 21:20:45,3.001s,PASSED
+closeBrowser,Firefox 52.0,,2018-07-02 21:20:45,2018-07-02 21:20:45,0.254s,PASSED
+,,,,,,
+Test Cases/DDS-272/DDS-3937 Count of items should be displayed on cart icon,Firefox 52.0,,2018-07-02 21:20:45,2018-07-02 21:21:48,1m - 2.877s,PASSED
+callTestCase,Firefox 52.0,,2018-07-02 21:20:45,2018-07-02 21:21:02,16.749s,PASSED
+click,Firefox 52.0,,2018-07-02 21:21:02,2018-07-02 21:21:32,30.048s,PASSED
+delay,Firefox 52.0,,2018-07-02 21:21:32,2018-07-02 21:21:35,3.000s,PASSED
+"Statement - b = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getAttribute(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Cart Page/Empty Cart Button), ""ng-reflect-is-disabled"")",Firefox 52.0,,2018-07-02 21:21:35,2018-07-02 21:21:35,0.055s,PASSED
+"Statement - If (b == ""false"")",Firefox 52.0,,2018-07-02 21:21:35,2018-07-02 21:21:48,12.956s,PASSED
+,,,,,,
+Test Cases/DDS-272/DDS-3938 Add a cart item and verify whether count in the cart icon is increased dynamically,Firefox 52.0,,2018-07-02 21:21:48,2018-07-02 21:23:11,1m - 23.069s,PASSED
+callTestCase,Firefox 52.0,,2018-07-02 21:21:48,2018-07-02 21:22:04,15.972s,PASSED
+click,Firefox 52.0,,2018-07-02 21:22:04,2018-07-02 21:22:37,33.180s,PASSED
+delay,Firefox 52.0,,2018-07-02 21:22:37,2018-07-02 21:22:40,3.002s,PASSED
+"Statement - b = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getAttribute(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Cart Page/Empty Cart Button), ""ng-reflect-is-disabled"")",Firefox 52.0,,2018-07-02 21:22:40,2018-07-02 21:22:40,0.051s,PASSED
+"Statement - If (b == ""false"")",Firefox 52.0,,2018-07-02 21:22:40,2018-07-02 21:23:11,30.799s,PASSED
+,,,,,,
+Test Cases/DDS-272/DDS-3941 Count in cart page should be updated dynamically,Firefox 52.0,,2018-07-02 21:23:11,2018-07-02 21:24:28,1m - 17.173s,PASSED
+callTestCase,Firefox 52.0,,2018-07-02 21:23:11,2018-07-02 21:23:26,14.486s,PASSED
+click,Firefox 52.0,,2018-07-02 21:23:26,2018-07-02 21:23:58,31.958s,PASSED
+delay,Firefox 52.0,,2018-07-02 21:23:58,2018-07-02 21:24:01,3.001s,PASSED
+"Statement - b = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getAttribute(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Cart Page/Empty Cart Button), ""ng-reflect-is-disabled"")",Firefox 52.0,,2018-07-02 21:24:01,2018-07-02 21:24:01,0.042s,PASSED
+"Statement - If (b == ""false"")",Firefox 52.0,,2018-07-02 21:24:01,2018-07-02 21:24:28,27.609s,PASSED
+,,,,,,
+Test Cases/DDS-272/DDS-3942 Count in the cart page should be prefixed with 0 if the count is in sigle digit,Firefox 52.0,,2018-07-02 21:24:28,2018-07-02 21:25:48,1m - 19.618s,PASSED
+callTestCase,Firefox 52.0,,2018-07-02 21:24:28,2018-07-02 21:24:43,14.778s,PASSED
+click,Firefox 52.0,,2018-07-02 21:24:43,2018-07-02 21:25:17,33.288s,PASSED
+delay,Firefox 52.0,,2018-07-02 21:25:17,2018-07-02 21:25:20,3.001s,PASSED
+"Statement - b = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getAttribute(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Cart Page/Empty Cart Button), ""ng-reflect-is-disabled"")",Firefox 52.0,,2018-07-02 21:25:20,2018-07-02 21:25:20,0.036s,PASSED
+"Statement - If (b == ""false"")",Firefox 52.0,,2018-07-02 21:25:20,2018-07-02 21:25:37,17.618s,PASSED
+click,Firefox 52.0,,2018-07-02 21:25:37,2018-07-02 21:25:37,0.188s,PASSED
+sendKeys,Firefox 52.0,,2018-07-02 21:25:37,2018-07-02 21:25:38,0.195s,PASSED
+click,Firefox 52.0,,2018-07-02 21:25:38,2018-07-02 21:25:39,1.619s,PASSED
+waitForElementVisible,Firefox 52.0,,2018-07-02 21:25:39,2018-07-02 21:25:47,7.985s,PASSED
+click,Firefox 52.0,,2018-07-02 21:25:47,2018-07-02 21:25:47,0.103s,PASSED
+click,Firefox 52.0,,2018-07-02 21:25:47,2018-07-02 21:25:47,0.084s,PASSED
+click,Firefox 52.0,,2018-07-02 21:25:47,2018-07-02 21:25:47,0.103s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 21:25:47,2018-07-02 21:25:48,0.529s,PASSED
+verifyElementText,Firefox 52.0,,2018-07-02 21:25:48,2018-07-02 21:25:48,0.017s,PASSED
+,,,,,,
+Test Cases/DDS-272/DDS-3945 Item Name should be a hyperlink,Firefox 52.0,,2018-07-02 21:25:48,2018-07-02 21:27:17,1m - 28.509s,FAILED
+callTestCase,Firefox 52.0,,2018-07-02 21:25:48,2018-07-02 21:26:37,48.981s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 21:26:37,2018-07-02 21:26:45,7.914s,PASSED
+click,Firefox 52.0,,2018-07-02 21:26:45,2018-07-02 21:26:45,0.097s,PASSED
+click,Firefox 52.0,,2018-07-02 21:26:45,2018-07-02 21:26:45,0.088s,PASSED
+click,Firefox 52.0,,2018-07-02 21:26:45,2018-07-02 21:26:45,0.143s,PASSED
+click,Firefox 52.0,,2018-07-02 21:26:45,2018-07-02 21:27:17,31.222s,FAILED
+,,,,,,
+Test Cases/DDS-272/DDS-3946 Pop-up should be displayed on clicking on the item name,Firefox 52.0,,2018-07-02 21:27:17,2018-07-02 21:28:52,1m - 35.133s,FAILED
+callTestCase,Firefox 52.0,,2018-07-02 21:27:17,2018-07-02 21:28:13,56.187s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 21:28:13,2018-07-02 21:28:20,7.294s,PASSED
+click,Firefox 52.0,,2018-07-02 21:28:20,2018-07-02 21:28:20,0.102s,PASSED
+click,Firefox 52.0,,2018-07-02 21:28:20,2018-07-02 21:28:20,0.082s,PASSED
+click,Firefox 52.0,,2018-07-02 21:28:20,2018-07-02 21:28:20,0.166s,PASSED
+click,Firefox 52.0,,2018-07-02 21:28:20,2018-07-02 21:28:52,31.245s,FAILED
+,,,,,,
+Test Cases/DDS-272/DDS-3948 Item number for catalog items should have its Part number displayed in it,Firefox 52.0,,2018-07-02 21:28:52,2018-07-02 21:30:49,1m - 56.950s,FAILED
+callTestCase,Firefox 52.0,,2018-07-02 21:28:52,2018-07-02 21:29:38,46.683s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 21:29:38,2018-07-02 21:30:17,38.088s,PASSED
+click,Firefox 52.0,,2018-07-02 21:30:17,2018-07-02 21:30:17,0.103s,PASSED
+Statement - PartNo = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Cart Page/Part No For Item3)),Firefox 52.0,,2018-07-02 21:30:17,2018-07-02 21:30:17,0.025s,PASSED
+click,Firefox 52.0,,2018-07-02 21:30:17,2018-07-02 21:30:17,0.083s,PASSED
+click,Firefox 52.0,,2018-07-02 21:30:17,2018-07-02 21:30:17,0.146s,PASSED
+Statement - ItemNo = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Cart Page/Item No details for Item 1)),Firefox 52.0,,2018-07-02 21:30:17,2018-07-02 21:30:49,31.771s,FAILED
+,,,,,,
+Test Cases/DDS-272/DDS-3950 Supplier Name should be prepopulated for catalog items and field should not be editable,Firefox 52.0,Supplier Name should be prepopulated for catalog items and field should not be editable.,2018-07-02 21:30:49,2018-07-02 21:31:51,1m - 2.449s,PASSED
+callTestCase,Firefox 52.0,,2018-07-02 21:30:49,2018-07-02 21:31:42,52.847s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 21:31:42,2018-07-02 21:31:50,8.201s,PASSED
+Statement - ActualSupplierName = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(SearchResultPage/SearchItemTab/CatalogItems/Supplier Name for ITEM1)),Firefox 52.0,,2018-07-02 21:31:50,2018-07-02 21:31:50,0.045s,PASSED
+"Statement - arr1 = ActualSupplierName.split("" "")",Firefox 52.0,,2018-07-02 21:31:50,2018-07-02 21:31:50,0.000s,PASSED
+"Statement - actual = arr1[1] + "" "" + arr1[2] + "" "" + arr1[3] + "" "" + arr1[4]",Firefox 52.0,,2018-07-02 21:31:50,2018-07-02 21:31:50,0.011s,PASSED
+click,Firefox 52.0,,2018-07-02 21:31:50,2018-07-02 21:31:50,0.184s,PASSED
+click,Firefox 52.0,,2018-07-02 21:31:50,2018-07-02 21:31:50,0.089s,PASSED
+click,Firefox 52.0,,2018-07-02 21:31:50,2018-07-02 21:31:50,0.186s,PASSED
+"Statement - ExpectedSupplierName = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Cart Page/Supplier name For ITEM1), STOP_ON_FAILURE)",Firefox 52.0,,2018-07-02 21:31:50,2018-07-02 21:31:51,0.619s,PASSED
+verifyMatch,Firefox 52.0,,2018-07-02 21:31:51,2018-07-02 21:31:51,0.000s,PASSED
+verifyElementNotHasAttribute,Firefox 52.0,,2018-07-02 21:31:51,2018-07-02 21:31:51,0.012s,PASSED
+closeBrowser,Firefox 52.0,,2018-07-02 21:31:51,2018-07-02 21:31:51,0.186s,PASSED
+,,,,,,
+Test Cases/DDS-272/DDS-3951 Value in currency and unit price field should be autopopulated,Firefox 52.0,,2018-07-02 21:31:51,2018-07-02 21:32:49,57.544s,PASSED
+callTestCase,Firefox 52.0,,2018-07-02 21:31:51,2018-07-02 21:32:40,48.480s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 21:32:40,2018-07-02 21:32:47,7.843s,PASSED
+Statement - ActualCurrencyValue = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(SearchResultPage/SearchItemTab/CatalogItems/Currency Value For ITEM1)),Firefox 52.0,,2018-07-02 21:32:47,2018-07-02 21:32:48,0.025s,PASSED
+click,Firefox 52.0,,2018-07-02 21:32:48,2018-07-02 21:32:48,0.101s,PASSED
+click,Firefox 52.0,,2018-07-02 21:32:48,2018-07-02 21:32:48,0.082s,PASSED
+click,Firefox 52.0,,2018-07-02 21:32:48,2018-07-02 21:32:48,0.148s,PASSED
+"Statement - ExpectedCurrencyValue = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Cart Page/Currency and Unit price Text), STOP_ON_FAILURE)",Firefox 52.0,,2018-07-02 21:32:48,2018-07-02 21:32:48,0.627s,PASSED
+verifyMatch,Firefox 52.0,,2018-07-02 21:32:48,2018-07-02 21:32:48,0.000s,PASSED
+closeBrowser,Firefox 52.0,,2018-07-02 21:32:48,2018-07-02 21:32:49,0.176s,PASSED
+,,,,,,
+Test Cases/DDS-272/DDS-3952 Currency in unit price should be as per the product currency,Firefox 52.0,,2018-07-02 21:32:49,2018-07-02 21:33:48,59.237s,PASSED
+callTestCase,Firefox 52.0,,2018-07-02 21:32:49,2018-07-02 21:33:38,48.889s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 21:33:38,2018-07-02 21:33:47,9.113s,PASSED
+Statement - ActualCurrencyValue = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(SearchResultPage/SearchItemTab/CatalogItems/Currency Value For ITEM1)),Firefox 52.0,,2018-07-02 21:33:47,2018-07-02 21:33:47,0.025s,PASSED
+click,Firefox 52.0,,2018-07-02 21:33:47,2018-07-02 21:33:47,0.116s,PASSED
+click,Firefox 52.0,,2018-07-02 21:33:47,2018-07-02 21:33:47,0.086s,PASSED
+click,Firefox 52.0,,2018-07-02 21:33:47,2018-07-02 21:33:47,0.158s,PASSED
+"Statement - ExpectedCurrencyValue = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Cart Page/Currency and Unit price Text), STOP_ON_FAILURE)",Firefox 52.0,,2018-07-02 21:33:47,2018-07-02 21:33:48,0.627s,PASSED
+verifyMatch,Firefox 52.0,,2018-07-02 21:33:48,2018-07-02 21:33:48,0.000s,PASSED
+closeBrowser,Firefox 52.0,,2018-07-02 21:33:48,2018-07-02 21:33:48,0.170s,PASSED
+,,,,,,
+Test Cases/DDS-272/DDS-3953 Currency should be appended before the unit price,Firefox 52.0,,2018-07-02 21:33:48,2018-07-02 21:34:50,1m - 1.729s,FAILED
+callTestCase,Firefox 52.0,,2018-07-02 21:33:48,2018-07-02 21:34:50,1m - 1.668s,FAILED
+,,,,,,
+Test Cases/DDS-272/DDS-3954 UOM should be displayed along with quantity,Firefox 52.0,,2018-07-02 21:34:50,2018-07-02 21:35:51,1m - 1.833s,FAILED
+callTestCase,Firefox 52.0,,2018-07-02 21:34:50,2018-07-02 21:35:51,1m - 1.774s,FAILED
+,,,,,,
+Test Cases/DDS-272/DDS-3955 QTY or Amt field should be editable,Firefox 52.0,,2018-07-02 21:35:51,2018-07-02 21:36:48,56.956s,PASSED
+callTestCase,Firefox 52.0,,2018-07-02 21:35:51,2018-07-02 21:36:37,46.007s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 21:36:37,2018-07-02 21:36:44,6.472s,PASSED
+click,Firefox 52.0,,2018-07-02 21:36:44,2018-07-02 21:36:44,0.104s,PASSED
+click,Firefox 52.0,,2018-07-02 21:36:44,2018-07-02 21:36:44,0.097s,PASSED
+click,Firefox 52.0,,2018-07-02 21:36:44,2018-07-02 21:36:44,0.170s,PASSED
+delay,Firefox 52.0,,2018-07-02 21:36:44,2018-07-02 21:36:47,3.001s,PASSED
+click,Firefox 52.0,,2018-07-02 21:36:47,2018-07-02 21:36:47,0.132s,PASSED
+sendKeys,Firefox 52.0,,2018-07-02 21:36:47,2018-07-02 21:36:48,0.107s,PASSED
+click,Firefox 52.0,,2018-07-02 21:36:48,2018-07-02 21:36:48,0.095s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 21:36:48,2018-07-02 21:36:48,0.519s,PASSED
+verifyElementText,Firefox 52.0,,2018-07-02 21:36:48,2018-07-02 21:36:48,0.021s,PASSED
+closeBrowser,Firefox 52.0,,2018-07-02 21:36:48,2018-07-02 21:36:48,0.177s,PASSED
+,,,,,,
+Test Cases/DDS-272/DDS-3956 when value is updated and user navigates from the field should be autoupdated,Firefox 52.0,,2018-07-02 21:36:48,2018-07-02 21:38:04,1m - 16.080s,PASSED
+callTestCase,Firefox 52.0,,2018-07-02 21:36:48,2018-07-02 21:37:32,43.723s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 21:37:32,2018-07-02 21:38:01,29.134s,PASSED
+click,Firefox 52.0,,2018-07-02 21:38:01,2018-07-02 21:38:01,0.088s,PASSED
+click,Firefox 52.0,,2018-07-02 21:38:01,2018-07-02 21:38:02,0.093s,PASSED
+click,Firefox 52.0,,2018-07-02 21:38:02,2018-07-02 21:38:02,0.154s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 21:38:02,2018-07-02 21:38:02,0.528s,PASSED
+click,Firefox 52.0,,2018-07-02 21:38:02,2018-07-02 21:38:02,0.079s,PASSED
+sendKeys,Firefox 52.0,,2018-07-02 21:38:02,2018-07-02 21:38:02,0.066s,PASSED
+click,Firefox 52.0,,2018-07-02 21:38:02,2018-07-02 21:38:02,0.073s,PASSED
+delay,Firefox 52.0,,2018-07-02 21:38:02,2018-07-02 21:38:04,2.002s,PASSED
+verifyElementAttributeValue,Firefox 52.0,,2018-07-02 21:38:04,2018-07-02 21:38:04,0.052s,PASSED
+verifyElementText,Firefox 52.0,,2018-07-02 21:38:04,2018-07-02 21:38:04,0.016s,PASSED
+,,,,,,
+Test Cases/DDS-272/DDS-3958 QTY or Amt field should not accept alphabets,Firefox 52.0,,2018-07-02 21:38:04,2018-07-02 21:39:00,55.673s,FAILED
+callTestCase,Firefox 52.0,,2018-07-02 21:38:05,2018-07-02 21:38:51,46.672s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 21:38:51,2018-07-02 21:38:59,7.458s,PASSED
+click,Firefox 52.0,,2018-07-02 21:38:59,2018-07-02 21:38:59,0.088s,PASSED
+click,Firefox 52.0,,2018-07-02 21:38:59,2018-07-02 21:38:59,0.075s,PASSED
+click,Firefox 52.0,,2018-07-02 21:38:59,2018-07-02 21:38:59,0.178s,PASSED
+sendKeys,Firefox 52.0,,2018-07-02 21:38:59,2018-07-02 21:39:00,0.578s,PASSED
+click,Firefox 52.0,,2018-07-02 21:39:00,2018-07-02 21:39:00,0.086s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 21:39:00,2018-07-02 21:39:00,0.008s,PASSED
+verifyElementText,Firefox 52.0,,2018-07-02 21:39:00,2018-07-02 21:39:00,0.442s,FAILED
+,,,,,,
+Test Cases/DDS-272/DDS-3960 QTY or Amt field should not accept multilingual values,Firefox 52.0,,2018-07-02 21:39:00,2018-07-02 21:40:19,1m - 19.068s,PASSED
+callTestCase,Firefox 52.0,,2018-07-02 21:39:00,2018-07-02 21:39:49,49.247s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 21:39:49,2018-07-02 21:40:18,28.550s,PASSED
+click,Firefox 52.0,,2018-07-02 21:40:18,2018-07-02 21:40:18,0.085s,PASSED
+click,Firefox 52.0,,2018-07-02 21:40:18,2018-07-02 21:40:18,0.096s,PASSED
+click,Firefox 52.0,,2018-07-02 21:40:18,2018-07-02 21:40:18,0.161s,PASSED
+sendKeys,Firefox 52.0,,2018-07-02 21:40:18,2018-07-02 21:40:19,0.576s,PASSED
+click,Firefox 52.0,,2018-07-02 21:40:19,2018-07-02 21:40:19,0.076s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 21:40:19,2018-07-02 21:40:19,0.000s,PASSED
+verifyElementText,Firefox 52.0,,2018-07-02 21:40:19,2018-07-02 21:40:19,0.026s,PASSED
+closeBrowser,Firefox 52.0,,2018-07-02 21:40:19,2018-07-02 21:40:19,0.187s,PASSED
+,,,,,,
+Test Cases/DDS-272/DDS-3961 QTY or Amt field should accept minimum of 1,Firefox 52.0,,2018-07-02 21:40:19,2018-07-02 21:41:23,1m - 3.616s,PASSED
+callTestCase,Firefox 52.0,,2018-07-02 21:40:19,2018-07-02 21:41:10,50.534s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 21:41:10,2018-07-02 21:41:18,7.765s,PASSED
+click,Firefox 52.0,,2018-07-02 21:41:18,2018-07-02 21:41:18,0.105s,PASSED
+click,Firefox 52.0,,2018-07-02 21:41:18,2018-07-02 21:41:18,0.077s,PASSED
+click,Firefox 52.0,,2018-07-02 21:41:18,2018-07-02 21:41:18,0.158s,PASSED
+delay,Firefox 52.0,,2018-07-02 21:41:18,2018-07-02 21:41:20,2.000s,PASSED
+sendKeys,Firefox 52.0,,2018-07-02 21:41:20,2018-07-02 21:41:20,0.100s,PASSED
+click,Firefox 52.0,,2018-07-02 21:41:20,2018-07-02 21:41:20,0.065s,PASSED
+verifyElementText,Firefox 52.0,,2018-07-02 21:41:20,2018-07-02 21:41:21,0.535s,PASSED
+delay,Firefox 52.0,,2018-07-02 21:41:21,2018-07-02 21:41:23,2.001s,PASSED
+verifyElementAttributeValue,Firefox 52.0,,2018-07-02 21:41:23,2018-07-02 21:41:23,0.026s,PASSED
+closeBrowser,Firefox 52.0,,2018-07-02 21:41:23,2018-07-02 21:41:23,0.170s,PASSED
+,,,,,,
+Test Cases/DDS-272/DDS-3969 When QTYor Amt field value is blank and user navigates to checkout page the quantity should be 1,Firefox 52.0,,2018-07-02 21:41:23,2018-07-02 21:42:22,58.871s,PASSED
+callTestCase,Firefox 52.0,,2018-07-02 21:41:23,2018-07-02 21:42:11,47.966s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 21:42:11,2018-07-02 21:42:17,6.449s,PASSED
+click,Firefox 52.0,,2018-07-02 21:42:17,2018-07-02 21:42:17,0.106s,PASSED
+click,Firefox 52.0,,2018-07-02 21:42:17,2018-07-02 21:42:17,0.072s,PASSED
+click,Firefox 52.0,,2018-07-02 21:42:17,2018-07-02 21:42:18,0.152s,PASSED
+sendKeys,Firefox 52.0,,2018-07-02 21:42:18,2018-07-02 21:42:18,0.680s,PASSED
+click,Firefox 52.0,,2018-07-02 21:42:18,2018-07-02 21:42:18,0.068s,PASSED
+click,Firefox 52.0,,2018-07-02 21:42:18,2018-07-02 21:42:18,0.079s,PASSED
+delay,Firefox 52.0,,2018-07-02 21:42:18,2018-07-02 21:42:21,3.001s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 21:42:21,2018-07-02 21:42:21,0.026s,PASSED
+"Statement - value = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getAttribute(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Cart Page/Qty or Amt Edit Box for line item1), ""ng-reflect-model"")",Firefox 52.0,,2018-07-02 21:42:21,2018-07-02 21:42:22,0.018s,PASSED
+verifyMatch,Firefox 52.0,,2018-07-02 21:42:22,2018-07-02 21:42:22,0.000s,PASSED
+closeBrowser,Firefox 52.0,,2018-07-02 21:42:22,2018-07-02 21:42:22,0.190s,PASSED
+,,,,,,
+Test Cases/DDS-272/DDS-3977 User should be able to delete the individual item,Firefox 52.0,,2018-07-02 21:42:22,2018-07-02 21:43:19,57.322s,PASSED
+callTestCase,Firefox 52.0,,2018-07-02 21:42:22,2018-07-02 21:43:11,49.147s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 21:43:11,2018-07-02 21:43:17,6.405s,PASSED
+click,Firefox 52.0,,2018-07-02 21:43:17,2018-07-02 21:43:17,0.105s,PASSED
+click,Firefox 52.0,,2018-07-02 21:43:17,2018-07-02 21:43:17,0.078s,PASSED
+click,Firefox 52.0,,2018-07-02 21:43:17,2018-07-02 21:43:18,0.163s,PASSED
+click,Firefox 52.0,,2018-07-02 21:43:18,2018-07-02 21:43:18,0.569s,PASSED
+click,Firefox 52.0,,2018-07-02 21:43:18,2018-07-02 21:43:18,0.072s,PASSED
+verifyElementText,Firefox 52.0,,2018-07-02 21:43:18,2018-07-02 21:43:19,0.544s,PASSED
+closeBrowser,Firefox 52.0,,2018-07-02 21:43:19,2018-07-02 21:43:19,0.185s,PASSED
+,,,,,,
+Test Cases/DDS-272/DDS-3978 User should be able to delete the entire cart,Firefox 52.0,,2018-07-02 21:43:19,2018-07-02 21:44:10,50.852s,FAILED
+callTestCase,Firefox 52.0,,2018-07-02 21:43:19,2018-07-02 21:44:02,42.712s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 21:44:02,2018-07-02 21:44:09,7.391s,PASSED
+click,Firefox 52.0,,2018-07-02 21:44:09,2018-07-02 21:44:09,0.122s,PASSED
+click,Firefox 52.0,,2018-07-02 21:44:09,2018-07-02 21:44:09,0.077s,PASSED
+click,Firefox 52.0,,2018-07-02 21:44:09,2018-07-02 21:44:10,0.162s,PASSED
+click,Firefox 52.0,,2018-07-02 21:44:10,2018-07-02 21:44:10,0.080s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 21:44:10,2018-07-02 21:44:10,0.010s,PASSED
+click,Firefox 52.0,,2018-07-02 21:44:10,2018-07-02 21:44:10,0.242s,FAILED
+,,,,,,
+Test Cases/DDS-272/DDS-3980 User should be able to add the deleted item again,Firefox 52.0,,2018-07-02 21:44:10,2018-07-02 21:45:36,1m - 26.534s,PASSED
+callTestCase,Firefox 52.0,,2018-07-02 21:44:10,2018-07-02 21:44:56,45.819s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 21:44:56,2018-07-02 21:45:24,27.819s,PASSED
+click,Firefox 52.0,,2018-07-02 21:45:24,2018-07-02 21:45:24,0.088s,PASSED
+click,Firefox 52.0,,2018-07-02 21:45:24,2018-07-02 21:45:24,0.079s,PASSED
+click,Firefox 52.0,,2018-07-02 21:45:24,2018-07-02 21:45:24,0.164s,PASSED
+click,Firefox 52.0,,2018-07-02 21:45:24,2018-07-02 21:45:24,0.578s,PASSED
+click,Firefox 52.0,,2018-07-02 21:45:24,2018-07-02 21:45:25,0.074s,PASSED
+verifyElementText,Firefox 52.0,,2018-07-02 21:45:25,2018-07-02 21:45:25,0.540s,PASSED
+click,Firefox 52.0,,2018-07-02 21:45:25,2018-07-02 21:45:25,0.230s,PASSED
+sendKeys,Firefox 52.0,,2018-07-02 21:45:25,2018-07-02 21:45:27,1.440s,PASSED
+click,Firefox 52.0,,2018-07-02 21:45:27,2018-07-02 21:45:27,0.158s,PASSED
+click,Firefox 52.0,,2018-07-02 21:45:27,2018-07-02 21:45:35,7.910s,PASSED
+click,Firefox 52.0,,2018-07-02 21:45:35,2018-07-02 21:45:35,0.077s,PASSED
+click,Firefox 52.0,,2018-07-02 21:45:35,2018-07-02 21:45:35,0.093s,PASSED
+click,Firefox 52.0,,2018-07-02 21:45:35,2018-07-02 21:45:36,0.603s,PASSED
+click,Firefox 52.0,,2018-07-02 21:45:36,2018-07-02 21:45:36,0.073s,PASSED
+verifyElementText,Firefox 52.0,,2018-07-02 21:45:36,2018-07-02 21:45:36,0.534s,PASSED
+closeBrowser,Firefox 52.0,,2018-07-02 21:45:36,2018-07-02 21:45:36,0.197s,PASSED
+,,,,,,
+Test Cases/DDS-272/DDS-3981 On deleting individual item appropriate Alert message should be displayed,Firefox 52.0,,2018-07-02 21:45:36,2018-07-02 21:46:38,1m - 1.983s,FAILED
+callTestCase,Firefox 52.0,,2018-07-02 21:45:36,2018-07-02 21:46:29,52.377s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 21:46:29,2018-07-02 21:46:37,8.285s,PASSED
+click,Firefox 52.0,,2018-07-02 21:46:37,2018-07-02 21:46:37,0.109s,PASSED
+click,Firefox 52.0,,2018-07-02 21:46:37,2018-07-02 21:46:37,0.078s,PASSED
+click,Firefox 52.0,,2018-07-02 21:46:37,2018-07-02 21:46:37,0.164s,PASSED
+click,Firefox 52.0,,2018-07-02 21:46:37,2018-07-02 21:46:38,0.588s,PASSED
+waitForElementVisible,Firefox 52.0,,2018-07-02 21:46:38,2018-07-02 21:46:38,0.009s,PASSED
+verifyElementText,Firefox 52.0,,2018-07-02 21:46:38,2018-07-02 21:46:38,0.297s,FAILED
+,,,,,,
+Test Cases/DDS-272/DDS-3982 On deleting entire cart appropriate Alert message should be displayed,Firefox 52.0,,2018-07-02 21:46:38,2018-07-02 21:47:40,1m - 1.583s,FAILED
+callTestCase,Firefox 52.0,,2018-07-02 21:46:38,2018-07-02 21:47:28,49.635s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 21:47:28,2018-07-02 21:47:36,7.546s,PASSED
+click,Firefox 52.0,,2018-07-02 21:47:36,2018-07-02 21:47:36,0.096s,PASSED
+click,Firefox 52.0,,2018-07-02 21:47:36,2018-07-02 21:47:36,0.090s,PASSED
+click,Firefox 52.0,,2018-07-02 21:47:36,2018-07-02 21:47:36,0.160s,PASSED
+click,Firefox 52.0,,2018-07-02 21:47:36,2018-07-02 21:47:37,0.594s,PASSED
+waitForElementVisible,Firefox 52.0,,2018-07-02 21:47:37,2018-07-02 21:47:40,3.097s,PASSED
+verifyElementText,Firefox 52.0,,2018-07-02 21:47:40,2018-07-02 21:47:40,0.300s,FAILED
+,,,,,,
+Test Cases/DDS-272/DDS-3983 On successful deletion of individual item appropriate message should be displayed,Firefox 52.0,,2018-07-02 21:47:40,2018-07-02 21:49:20,1m - 39.910s,PASSED
+callTestCase,Firefox 52.0,,2018-07-02 21:47:40,2018-07-02 21:48:27,47.085s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 21:48:27,2018-07-02 21:48:59,31.747s,PASSED
+click,Firefox 52.0,,2018-07-02 21:48:59,2018-07-02 21:49:18,19.344s,PASSED
+click,Firefox 52.0,,2018-07-02 21:49:18,2018-07-02 21:49:18,0.084s,PASSED
+click,Firefox 52.0,,2018-07-02 21:49:18,2018-07-02 21:49:18,0.191s,PASSED
+click,Firefox 52.0,,2018-07-02 21:49:18,2018-07-02 21:49:19,0.587s,PASSED
+click,Firefox 52.0,,2018-07-02 21:49:19,2018-07-02 21:49:19,0.076s,PASSED
+verifyElementText,Firefox 52.0,,2018-07-02 21:49:19,2018-07-02 21:49:20,0.539s,PASSED
+closeBrowser,Firefox 52.0,,2018-07-02 21:49:20,2018-07-02 21:49:20,0.210s,PASSED
+,,,,,,
+Test Cases/DDS-272/DDS-3984 On successful deletion of entire appropriate message should be displayed,Firefox 52.0,,2018-07-02 21:49:20,2018-07-02 21:50:51,1m - 30.933s,FAILED
+callTestCase,Firefox 52.0,,2018-07-02 21:49:20,2018-07-02 21:50:04,43.857s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 21:50:04,2018-07-02 21:50:35,31.522s,PASSED
+click,Firefox 52.0,,2018-07-02 21:50:35,2018-07-02 21:50:50,14.900s,PASSED
+click,Firefox 52.0,,2018-07-02 21:50:50,2018-07-02 21:50:50,0.076s,PASSED
+click,Firefox 52.0,,2018-07-02 21:50:50,2018-07-02 21:50:50,0.180s,PASSED
+waitForElementClickable,Firefox 52.0,,2018-07-02 21:50:50,2018-07-02 21:50:51,0.028s,PASSED
+click,Firefox 52.0,,2018-07-02 21:50:51,2018-07-02 21:50:51,0.066s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 21:50:51,2018-07-02 21:50:51,0.000s,PASSED
+click,Firefox 52.0,,2018-07-02 21:50:51,2018-07-02 21:50:51,0.243s,FAILED
+,,,,,,
+Test Cases/DDS-272/DDS-3985 When entire cart is deleted continue shopping option should be displayed whereas other options should be hidden,Firefox 52.0,,2018-07-02 21:50:51,2018-07-02 21:51:49,57.691s,FAILED
+callTestCase,Firefox 52.0,,2018-07-02 21:50:51,2018-07-02 21:51:40,49.506s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 21:51:40,2018-07-02 21:51:48,7.380s,PASSED
+click,Firefox 52.0,,2018-07-02 21:51:48,2018-07-02 21:51:48,0.104s,PASSED
+click,Firefox 52.0,,2018-07-02 21:51:48,2018-07-02 21:51:48,0.076s,PASSED
+click,Firefox 52.0,,2018-07-02 21:51:48,2018-07-02 21:51:48,0.209s,PASSED
+waitForElementClickable,Firefox 52.0,,2018-07-02 21:51:48,2018-07-02 21:51:48,0.025s,PASSED
+click,Firefox 52.0,,2018-07-02 21:51:48,2018-07-02 21:51:48,0.076s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 21:51:48,2018-07-02 21:51:48,0.009s,PASSED
+click,Firefox 52.0,,2018-07-02 21:51:48,2018-07-02 21:51:49,0.234s,FAILED
+,,,,,,
+Test Cases/DDS-273/DDS- 5088 verify is that field accepting any Language,Firefox 52.0,,2018-07-02 21:51:49,2018-07-02 21:52:45,56.469s,PASSED
+callTestCase,Firefox 52.0,,2018-07-02 21:51:49,2018-07-02 21:52:34,45.838s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 21:52:34,2018-07-02 21:52:41,6.865s,PASSED
+click,Firefox 52.0,,2018-07-02 21:52:41,2018-07-02 21:52:41,0.088s,PASSED
+click,Firefox 52.0,,2018-07-02 21:52:41,2018-07-02 21:52:41,0.076s,PASSED
+click,Firefox 52.0,,2018-07-02 21:52:41,2018-07-02 21:52:42,0.157s,PASSED
+delay,Firefox 52.0,,2018-07-02 21:52:42,2018-07-02 21:52:45,3.000s,PASSED
+sendKeys,Firefox 52.0,,2018-07-02 21:52:45,2018-07-02 21:52:45,0.106s,PASSED
+click,Firefox 52.0,,2018-07-02 21:52:45,2018-07-02 21:52:45,0.075s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 21:52:45,2018-07-02 21:52:45,0.011s,PASSED
+verifyElementText,Firefox 52.0,,2018-07-02 21:52:45,2018-07-02 21:52:45,0.024s,PASSED
+closeBrowser,Firefox 52.0,,2018-07-02 21:52:45,2018-07-02 21:52:45,0.160s,PASSED
+,,,,,,
+Test Cases/DDS-273/DDS-5071 verify user can be able to editable,Firefox 52.0,,2018-07-02 21:52:45,2018-07-02 21:53:46,1m - 0.765s,PASSED
+callTestCase,Firefox 52.0,,2018-07-02 21:52:45,2018-07-02 21:53:27,41.577s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 21:53:27,2018-07-02 21:53:42,15.545s,PASSED
+click,Firefox 52.0,,2018-07-02 21:53:42,2018-07-02 21:53:42,0.106s,PASSED
+click,Firefox 52.0,,2018-07-02 21:53:42,2018-07-02 21:53:42,0.092s,PASSED
+click,Firefox 52.0,,2018-07-02 21:53:42,2018-07-02 21:53:43,0.146s,PASSED
+delay,Firefox 52.0,,2018-07-02 21:53:43,2018-07-02 21:53:46,3.001s,PASSED
+verifyElementAttributeValue,Firefox 52.0,,2018-07-02 21:53:46,2018-07-02 21:53:46,0.054s,PASSED
+closeBrowser,Firefox 52.0,,2018-07-02 21:53:46,2018-07-02 21:53:46,0.170s,PASSED
+,,,,,,
+Test Cases/DDS-273/DDS-5072 verify user can not able to enter zero,Firefox 52.0,,2018-07-02 21:53:46,2018-07-02 21:54:48,1m - 2.355s,PASSED
+callTestCase,Firefox 52.0,,2018-07-02 21:53:46,2018-07-02 21:54:36,50.555s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 21:54:36,2018-07-02 21:54:44,7.986s,PASSED
+click,Firefox 52.0,,2018-07-02 21:54:44,2018-07-02 21:54:44,0.085s,PASSED
+click,Firefox 52.0,,2018-07-02 21:54:44,2018-07-02 21:54:45,0.097s,PASSED
+click,Firefox 52.0,,2018-07-02 21:54:45,2018-07-02 21:54:45,0.153s,PASSED
+delay,Firefox 52.0,,2018-07-02 21:54:45,2018-07-02 21:54:48,3.000s,PASSED
+sendKeys,Firefox 52.0,,2018-07-02 21:54:48,2018-07-02 21:54:48,0.093s,PASSED
+click,Firefox 52.0,,2018-07-02 21:54:48,2018-07-02 21:54:48,0.082s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 21:54:48,2018-07-02 21:54:48,0.008s,PASSED
+verifyElementText,Firefox 52.0,,2018-07-02 21:54:48,2018-07-02 21:54:48,0.009s,PASSED
+closeBrowser,Firefox 52.0,,2018-07-02 21:54:48,2018-07-02 21:54:48,0.207s,PASSED
+,,,,,,
+Test Cases/DDS-273/DDS-5073 verify is that field is empty,Firefox 52.0,,2018-07-02 21:54:48,2018-07-02 21:56:01,1m - 12.907s,PASSED
+callTestCase,Firefox 52.0,,2018-07-02 21:54:48,2018-07-02 21:55:36,47.394s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 21:55:36,2018-07-02 21:55:57,21.865s,PASSED
+click,Firefox 52.0,,2018-07-02 21:55:57,2018-07-02 21:55:58,0.086s,PASSED
+click,Firefox 52.0,,2018-07-02 21:55:58,2018-07-02 21:55:58,0.090s,PASSED
+click,Firefox 52.0,,2018-07-02 21:55:58,2018-07-02 21:55:58,0.157s,PASSED
+delay,Firefox 52.0,,2018-07-02 21:55:58,2018-07-02 21:56:01,3.001s,PASSED
+"Statement - Value = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getAttribute(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Cart Page/Qty or Amt Edit Box for line item1), ""ng-reflect-model"")",Firefox 52.0,,2018-07-02 21:56:01,2018-07-02 21:56:01,0.053s,PASSED
+verifyElementAttributeValue,Firefox 52.0,,2018-07-02 21:56:01,2018-07-02 21:56:01,0.015s,PASSED
+closeBrowser,Firefox 52.0,,2018-07-02 21:56:01,2018-07-02 21:56:01,0.180s,PASSED
+,,,,,,
+Test Cases/DDS-273/DDS-5074 verify if user not enter quantity throwing a message Enter valid quantity,Firefox 52.0,,2018-07-02 21:56:01,2018-07-02 21:57:27,1m - 25.505s,PASSED
+callTestCase,Firefox 52.0,,2018-07-02 21:56:01,2018-07-02 21:56:51,49.614s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 21:56:51,2018-07-02 21:57:22,31.737s,PASSED
+click,Firefox 52.0,,2018-07-02 21:57:22,2018-07-02 21:57:23,0.443s,PASSED
+click,Firefox 52.0,,2018-07-02 21:57:23,2018-07-02 21:57:23,0.079s,PASSED
+click,Firefox 52.0,,2018-07-02 21:57:23,2018-07-02 21:57:23,0.185s,PASSED
+delay,Firefox 52.0,,2018-07-02 21:57:23,2018-07-02 21:57:26,3.001s,PASSED
+sendKeys,Firefox 52.0,,2018-07-02 21:57:26,2018-07-02 21:57:26,0.106s,PASSED
+click,Firefox 52.0,,2018-07-02 21:57:26,2018-07-02 21:57:26,0.089s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 21:57:26,2018-07-02 21:57:26,0.001s,PASSED
+verifyElementText,Firefox 52.0,,2018-07-02 21:57:26,2018-07-02 21:57:26,0.018s,PASSED
+closeBrowser,Firefox 52.0,,2018-07-02 21:57:26,2018-07-02 21:57:27,0.170s,PASSED
+,,,,,,
+Test Cases/DDS-273/DDS-5075 verify user can able to enter negative quantity,Firefox 52.0,,2018-07-02 21:57:27,2018-07-02 21:58:20,53.378s,PASSED
+callTestCase,Firefox 52.0,,2018-07-02 21:57:27,2018-07-02 21:58:09,42.218s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 21:58:09,2018-07-02 21:58:16,7.422s,PASSED
+click,Firefox 52.0,,2018-07-02 21:58:16,2018-07-02 21:58:16,0.090s,PASSED
+click,Firefox 52.0,,2018-07-02 21:58:16,2018-07-02 21:58:16,0.075s,PASSED
+click,Firefox 52.0,,2018-07-02 21:58:16,2018-07-02 21:58:17,0.138s,PASSED
+delay,Firefox 52.0,,2018-07-02 21:58:17,2018-07-02 21:58:20,3.000s,PASSED
+sendKeys,Firefox 52.0,,2018-07-02 21:58:20,2018-07-02 21:58:20,0.079s,PASSED
+click,Firefox 52.0,,2018-07-02 21:58:20,2018-07-02 21:58:20,0.077s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 21:58:20,2018-07-02 21:58:20,0.000s,PASSED
+verifyElementText,Firefox 52.0,,2018-07-02 21:58:20,2018-07-02 21:58:20,0.035s,PASSED
+closeBrowser,Firefox 52.0,,2018-07-02 21:58:20,2018-07-02 21:58:20,0.175s,PASSED
+,,,,,,
+Test Cases/DDS-273/DDS-5076 verify User will be able to update the quantity in the field,Firefox 52.0,,2018-07-02 21:58:20,2018-07-02 21:59:16,56.375s,PASSED
+callTestCase,Firefox 52.0,,2018-07-02 21:58:20,2018-07-02 21:59:05,45.383s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 21:59:05,2018-07-02 21:59:12,6.671s,PASSED
+click,Firefox 52.0,,2018-07-02 21:59:12,2018-07-02 21:59:12,0.106s,PASSED
+click,Firefox 52.0,,2018-07-02 21:59:12,2018-07-02 21:59:12,0.093s,PASSED
+click,Firefox 52.0,,2018-07-02 21:59:12,2018-07-02 21:59:12,0.160s,PASSED
+delay,Firefox 52.0,,2018-07-02 21:59:12,2018-07-02 21:59:15,3.001s,PASSED
+sendKeys,Firefox 52.0,,2018-07-02 21:59:15,2018-07-02 21:59:15,0.090s,PASSED
+click,Firefox 52.0,,2018-07-02 21:59:15,2018-07-02 21:59:16,0.095s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 21:59:16,2018-07-02 21:59:16,0.000s,PASSED
+verifyElementText,Firefox 52.0,,2018-07-02 21:59:16,2018-07-02 21:59:16,0.522s,PASSED
+closeBrowser,Firefox 52.0,,2018-07-02 21:59:16,2018-07-02 21:59:16,0.195s,PASSED
+,,,,,,
+Test Cases/DDS-273/DDS-5077 check if user enters zero in the quantity field and tries to navigate away from the field. Throwing a message Enter valid quantity,Firefox 52.0,,2018-07-02 21:59:16,2018-07-02 22:00:27,1m - 10.825s,PASSED
+callTestCase,Firefox 52.0,,2018-07-02 21:59:16,2018-07-02 22:00:14,58.010s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 22:00:14,2018-07-02 22:00:23,9.011s,PASSED
+click,Firefox 52.0,,2018-07-02 22:00:23,2018-07-02 22:00:23,0.098s,PASSED
+click,Firefox 52.0,,2018-07-02 22:00:23,2018-07-02 22:00:24,0.088s,PASSED
+click,Firefox 52.0,,2018-07-02 22:00:24,2018-07-02 22:00:24,0.155s,PASSED
+delay,Firefox 52.0,,2018-07-02 22:00:24,2018-07-02 22:00:27,3.002s,PASSED
+sendKeys,Firefox 52.0,,2018-07-02 22:00:27,2018-07-02 22:00:27,0.079s,PASSED
+click,Firefox 52.0,,2018-07-02 22:00:27,2018-07-02 22:00:27,0.099s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 22:00:27,2018-07-02 22:00:27,0.021s,PASSED
+verifyElementText,Firefox 52.0,,2018-07-02 22:00:27,2018-07-02 22:00:27,0.019s,PASSED
+closeBrowser,Firefox 52.0,,2018-07-02 22:00:27,2018-07-02 22:00:27,0.178s,PASSED
+,,,,,,
+"Test Cases/DDS-273/DDS-5078 check if user not enter quantity ,when the user tries to navigate away from that field.throwing a message Enter valid quantity",Firefox 52.0,,2018-07-02 22:00:27,2018-07-02 22:02:10,1m - 42.535s,PASSED
+callTestCase,Firefox 52.0,,2018-07-02 22:00:27,2018-07-02 22:01:56,1m - 28.561s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 22:01:56,2018-07-02 22:02:06,10.129s,PASSED
+click,Firefox 52.0,,2018-07-02 22:02:06,2018-07-02 22:02:06,0.098s,PASSED
+click,Firefox 52.0,,2018-07-02 22:02:06,2018-07-02 22:02:06,0.095s,PASSED
+click,Firefox 52.0,,2018-07-02 22:02:06,2018-07-02 22:02:06,0.191s,PASSED
+delay,Firefox 52.0,,2018-07-02 22:02:06,2018-07-02 22:02:09,3.001s,PASSED
+sendKeys,Firefox 52.0,,2018-07-02 22:02:09,2018-07-02 22:02:09,0.082s,PASSED
+click,Firefox 52.0,,2018-07-02 22:02:09,2018-07-02 22:02:09,0.101s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 22:02:09,2018-07-02 22:02:09,0.000s,PASSED
+verifyElementText,Firefox 52.0,,2018-07-02 22:02:09,2018-07-02 22:02:09,0.038s,PASSED
+closeBrowser,Firefox 52.0,,2018-07-02 22:02:09,2018-07-02 22:02:10,0.178s,PASSED
+,,,,,,
+"Test Cases/DDS-273/DDS-5080 verify If user clicks on add to cart, and item of the quantity or amount field is blank, system will throw a message Enter valid quantity",Firefox 52.0,,2018-07-02 22:02:10,2018-07-02 22:03:31,1m - 21.172s,PASSED
+callTestCase,Firefox 52.0,,2018-07-02 22:02:10,2018-07-02 22:03:00,49.996s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 22:03:00,2018-07-02 22:03:27,27.435s,PASSED
+click,Firefox 52.0,,2018-07-02 22:03:27,2018-07-02 22:03:27,0.098s,PASSED
+click,Firefox 52.0,,2018-07-02 22:03:27,2018-07-02 22:03:27,0.078s,PASSED
+click,Firefox 52.0,,2018-07-02 22:03:27,2018-07-02 22:03:27,0.134s,PASSED
+delay,Firefox 52.0,,2018-07-02 22:03:27,2018-07-02 22:03:30,3.002s,PASSED
+sendKeys,Firefox 52.0,,2018-07-02 22:03:30,2018-07-02 22:03:31,0.081s,PASSED
+click,Firefox 52.0,,2018-07-02 22:03:31,2018-07-02 22:03:31,0.072s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 22:03:31,2018-07-02 22:03:31,0.009s,PASSED
+verifyElementText,Firefox 52.0,,2018-07-02 22:03:31,2018-07-02 22:03:31,0.028s,PASSED
+closeBrowser,Firefox 52.0,,2018-07-02 22:03:31,2018-07-02 22:03:31,0.168s,PASSED
+,,,,,,
+Test Cases/DDS-273/DDS-5082 verify when item of the quantity or amount field is blank if user try to navigate away from field system will not update quantity amout field automatically will throw error,Firefox 52.0,,2018-07-02 22:03:31,2018-07-02 22:04:31,1m - 0.628s,ERROR
+callTestCase,Firefox 52.0,,2018-07-02 22:03:31,2018-07-02 22:04:21,49.658s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 22:04:21,2018-07-02 22:04:29,8.562s,PASSED
+click,Firefox 52.0,,2018-07-02 22:04:29,2018-07-02 22:04:29,0.102s,PASSED
+click,Firefox 52.0,,2018-07-02 22:04:29,2018-07-02 22:04:29,0.083s,PASSED
+click,Firefox 52.0,,2018-07-02 22:04:29,2018-07-02 22:04:29,0.141s,PASSED
+delay,Firefox 52.0,,2018-07-02 22:04:29,2018-07-02 22:04:31,2.000s,PASSED
+sendKeys,Firefox 52.0,,2018-07-02 22:04:31,2018-07-02 22:04:31,0.001s,PASSED
+,,,,,,
+Test Cases/DDS-273/DDS-5087 verify it this field accepting XSS Character,Firefox 52.0,,2018-07-02 22:04:31,2018-07-02 22:05:34,1m - 2.450s,PASSED
+callTestCase,Firefox 52.0,,2018-07-02 22:04:32,2018-07-02 22:05:19,47.378s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 22:05:19,2018-07-02 22:05:30,11.114s,PASSED
+click,Firefox 52.0,,2018-07-02 22:05:30,2018-07-02 22:05:30,0.100s,PASSED
+click,Firefox 52.0,,2018-07-02 22:05:30,2018-07-02 22:05:30,0.085s,PASSED
+click,Firefox 52.0,,2018-07-02 22:05:30,2018-07-02 22:05:30,0.188s,PASSED
+delay,Firefox 52.0,,2018-07-02 22:05:30,2018-07-02 22:05:33,3.001s,PASSED
+sendKeys,Firefox 52.0,,2018-07-02 22:05:33,2018-07-02 22:05:34,0.241s,PASSED
+click,Firefox 52.0,,2018-07-02 22:05:34,2018-07-02 22:05:34,0.085s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 22:05:34,2018-07-02 22:05:34,0.001s,PASSED
+verifyElementText,Firefox 52.0,,2018-07-02 22:05:34,2018-07-02 22:05:34,0.028s,PASSED
+closeBrowser,Firefox 52.0,,2018-07-02 22:05:34,2018-07-02 22:05:34,0.166s,PASSED
+,,,,,,
+Test Cases/DDS-273/DDS-5089 verify is this field accepting Alphabetic Character,Firefox 52.0,,2018-07-02 22:05:34,2018-07-02 22:06:27,53.217s,PASSED
+callTestCase,Firefox 52.0,,2018-07-02 22:05:34,2018-07-02 22:06:16,42.121s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 22:06:16,2018-07-02 22:06:23,7.262s,PASSED
+click,Firefox 52.0,,2018-07-02 22:06:23,2018-07-02 22:06:23,0.103s,PASSED
+click,Firefox 52.0,,2018-07-02 22:06:23,2018-07-02 22:06:24,0.083s,PASSED
+click,Firefox 52.0,,2018-07-02 22:06:24,2018-07-02 22:06:24,0.214s,PASSED
+delay,Firefox 52.0,,2018-07-02 22:06:24,2018-07-02 22:06:27,3.001s,PASSED
+sendKeys,Firefox 52.0,,2018-07-02 22:06:27,2018-07-02 22:06:27,0.089s,PASSED
+click,Firefox 52.0,,2018-07-02 22:06:27,2018-07-02 22:06:27,0.083s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 22:06:27,2018-07-02 22:06:27,0.009s,PASSED
+verifyElementText,Firefox 52.0,,2018-07-02 22:06:27,2018-07-02 22:06:27,0.023s,PASSED
+closeBrowser,Firefox 52.0,,2018-07-02 22:06:27,2018-07-02 22:06:27,0.172s,PASSED
+,,,,,,
+Test Cases/DDS-273/DDS-5092 verify Qty or Amt field accepting numeric digits,Firefox 52.0,,2018-07-02 22:06:27,2018-07-02 22:07:25,58.223s,PASSED
+callTestCase,Firefox 52.0,,2018-07-02 22:06:27,2018-07-02 22:07:15,47.790s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 22:07:15,2018-07-02 22:07:22,6.991s,PASSED
+click,Firefox 52.0,,2018-07-02 22:07:22,2018-07-02 22:07:22,0.124s,PASSED
+click,Firefox 52.0,,2018-07-02 22:07:22,2018-07-02 22:07:22,0.108s,PASSED
+click,Firefox 52.0,,2018-07-02 22:07:22,2018-07-02 22:07:22,0.219s,PASSED
+delay,Firefox 52.0,,2018-07-02 22:07:22,2018-07-02 22:07:24,2.000s,PASSED
+sendKeys,Firefox 52.0,,2018-07-02 22:07:24,2018-07-02 22:07:25,0.100s,PASSED
+click,Firefox 52.0,,2018-07-02 22:07:25,2018-07-02 22:07:25,0.083s,PASSED
+verifyElementText,Firefox 52.0,,2018-07-02 22:07:25,2018-07-02 22:07:25,0.550s,PASSED
+closeBrowser,Firefox 52.0,,2018-07-02 22:07:25,2018-07-02 22:07:25,0.179s,PASSED
+,,,,,,
+Test Cases/DDS-276/DDS-4229,Firefox 52.0,,2018-07-02 22:07:25,2018-07-02 22:08:13,47.637s,FAILED
+callTestCase,Firefox 52.0,,2018-07-02 22:07:25,2018-07-02 22:08:13,47.227s,PASSED
+click,Firefox 52.0,,2018-07-02 22:08:13,2018-07-02 22:08:13,0.341s,FAILED
+,,,,,,
+Test Cases/DDS-276/DDS-4230 User should be able to scroll through keyboard arrow keys in user cart,Firefox 52.0,,2018-07-02 22:08:13,2018-07-02 22:10:25,2m - 12.348s,FAILED
+callTestCase,Firefox 52.0,,2018-07-02 22:08:13,2018-07-02 22:09:00,46.925s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 22:09:00,2018-07-02 22:09:53,52.975s,PASSED
+click,Firefox 52.0,,2018-07-02 22:09:53,2018-07-02 22:10:25,32.372s,FAILED
+,,,,,,
+Test Cases/DDS-276/DDS-4231 Scroll bar should be well aligned in user cart,Firefox 52.0,,2018-07-02 22:10:25,2018-07-02 22:12:29,2m - 3.873s,FAILED
+callTestCase,Firefox 52.0,,2018-07-02 22:10:25,2018-07-02 22:11:04,38.466s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 22:11:04,2018-07-02 22:11:57,52.997s,PASSED
+click,Firefox 52.0,,2018-07-02 22:11:57,2018-07-02 22:12:29,32.353s,FAILED
+,,,,,,
+Test Cases/DDS-276/DDS-4233,Firefox 52.0,,2018-07-02 22:12:29,2018-07-02 22:13:27,57.705s,FAILED
+callTestCase,Firefox 52.0,,2018-07-02 22:12:29,2018-07-02 22:12:56,27.079s,PASSED
+doubleClick,Firefox 52.0,,2018-07-02 22:12:56,2018-07-02 22:13:16,19.341s,PASSED
+Statement - If (com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementClickable(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(CartPage/EmptyCartButton)) == true),Firefox 52.0,,2018-07-02 22:13:16,2018-07-02 22:13:27,10.911s,PASSED
+doubleClick,Firefox 52.0,,2018-07-02 22:13:27,2018-07-02 22:13:27,0.094s,PASSED
+doubleClick,Firefox 52.0,,2018-07-02 22:13:27,2018-07-02 22:13:27,0.210s,FAILED
+,,,,,,
+Test Cases/DDS-276/DDS-4234,Firefox 52.0,,2018-07-02 22:13:27,2018-07-02 22:14:05,37.827s,FAILED
+callTestCase,Firefox 52.0,,2018-07-02 22:13:27,2018-07-02 22:13:44,16.631s,PASSED
+doubleClick,Firefox 52.0,,2018-07-02 22:13:44,2018-07-02 22:14:04,19.903s,PASSED
+Statement - If (com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementClickable(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(CartPage/EmptyCartButton)) == true),Firefox 52.0,,2018-07-02 22:14:04,2018-07-02 22:14:05,1.222s,FAILED
+,,,,,,
+Test Cases/DDS-276/DDS-4235,Firefox 52.0,,2018-07-02 22:14:05,2018-07-02 22:14:43,37.822s,FAILED
+callTestCase,Firefox 52.0,,2018-07-02 22:14:05,2018-07-02 22:14:22,17.219s,PASSED
+doubleClick,Firefox 52.0,,2018-07-02 22:14:22,2018-07-02 22:14:41,19.425s,PASSED
+Statement - If (com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementClickable(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(CartPage/EmptyCartButton)) == true),Firefox 52.0,,2018-07-02 22:14:41,2018-07-02 22:14:43,1.103s,FAILED
+,,,,,,
+"Test Cases/DDS-277/DDS-4238 On search result page, there should be toggle switch present  between list view of items and grid view of items",Firefox 52.0,,2018-07-02 22:14:43,2018-07-02 22:15:51,1m - 8.109s,FAILED
+callTestCase,Firefox 52.0,,2018-07-02 22:14:43,2018-07-02 22:15:19,36.048s,PASSED
+waitForPageLoad,Firefox 52.0,,2018-07-02 22:15:19,2018-07-02 22:15:19,0.026s,PASSED
+click,Firefox 52.0,,2018-07-02 22:15:19,2018-07-02 22:15:19,0.080s,PASSED
+verifyElementText,Firefox 52.0,,2018-07-02 22:15:19,2018-07-02 22:15:51,31.892s,FAILED
+,,,,,,
+"Test Cases/DDS-277/DDS-4238 On search result page, there should be toggle switch present between list view of items and grid view of items",Firefox 52.0,,2018-07-02 22:15:51,2018-07-02 22:16:25,34.712s,PASSED
+callTestCase,Firefox 52.0,,2018-07-02 22:15:51,2018-07-02 22:16:25,34.417s,PASSED
+waitForPageLoad,Firefox 52.0,,2018-07-02 22:16:25,2018-07-02 22:16:25,0.008s,PASSED
+verifyElementClickable,Firefox 52.0,,2018-07-02 22:16:25,2018-07-02 22:16:25,0.026s,PASSED
+verifyElementClickable,Firefox 52.0,,2018-07-02 22:16:25,2018-07-02 22:16:25,0.022s,PASSED
+closeBrowser,Firefox 52.0,,2018-07-02 22:16:25,2018-07-02 22:16:25,0.179s,PASSED
+,,,,,,
+"Test Cases/DDS-277/DDS-4239 On search result page, by default the list view of the items should be present",Firefox 52.0,,2018-07-02 22:16:25,2018-07-02 22:17:07,41.583s,PASSED
+callTestCase,Firefox 52.0,,2018-07-02 22:16:25,2018-07-02 22:17:01,35.175s,PASSED
+delay,Firefox 52.0,,2018-07-02 22:17:01,2018-07-02 22:17:07,6.001s,PASSED
+takeScreenshot,Firefox 52.0,,2018-07-02 22:17:07,2018-07-02 22:17:07,0.345s,PASSED
+,,,,,,
+Test Cases/DDS-277/DDS-4240 User should be able to flip the view of the search results to grid view from list view,Firefox 52.0,,2018-07-02 22:17:07,2018-07-02 22:18:06,58.583s,PASSED
+callTestCase,Firefox 52.0,,2018-07-02 22:17:07,2018-07-02 22:17:44,37.466s,PASSED
+waitForPageLoad,Firefox 52.0,,2018-07-02 22:17:44,2018-07-02 22:17:44,0.009s,PASSED
+click,Firefox 52.0,,2018-07-02 22:17:44,2018-07-02 22:17:45,0.077s,PASSED
+delay,Firefox 52.0,,2018-07-02 22:17:45,2018-07-02 22:17:55,10.001s,PASSED
+takeScreenshot,Firefox 52.0,,2018-07-02 22:17:55,2018-07-02 22:17:55,0.311s,PASSED
+click,Firefox 52.0,,2018-07-02 22:17:55,2018-07-02 22:17:55,0.102s,PASSED
+delay,Firefox 52.0,,2018-07-02 22:17:55,2018-07-02 22:18:05,10.001s,PASSED
+takeScreenshot,Firefox 52.0,,2018-07-02 22:18:05,2018-07-02 22:18:05,0.373s,PASSED
+closeBrowser,Firefox 52.0,,2018-07-02 22:18:05,2018-07-02 22:18:06,0.181s,PASSED
+,,,,,,
+Test Cases/DDS-277/DDS-4241 User should be able to flip the view of the search results to list view from grid view,Firefox 52.0,,2018-07-02 22:18:06,2018-07-02 22:19:36,1m - 30.632s,FAILED
+callTestCase,Firefox 52.0,,2018-07-02 22:18:06,2018-07-02 22:18:43,37.063s,PASSED
+waitForPageLoad,Firefox 52.0,,2018-07-02 22:18:43,2018-07-02 22:18:43,0.011s,PASSED
+click,Firefox 52.0,,2018-07-02 22:18:43,2018-07-02 22:18:43,0.076s,PASSED
+waitForElementVisible,Firefox 52.0,,2018-07-02 22:18:43,2018-07-02 22:19:04,21.245s,PASSED
+verifyElementText,Firefox 52.0,,2018-07-02 22:19:04,2018-07-02 22:19:36,32.176s,FAILED
+,,,,,,
+Test Cases/DDS-277/DDS-4242 In Grid view Catalog item should be displayed in grid format,Firefox 52.0,,2018-07-02 22:19:36,2018-07-02 22:21:07,1m - 30.350s,FAILED
+callTestCase,Firefox 52.0,,2018-07-02 22:19:36,2018-07-02 22:20:13,36.525s,PASSED
+waitForPageLoad,Firefox 52.0,,2018-07-02 22:20:13,2018-07-02 22:20:13,0.014s,PASSED
+click,Firefox 52.0,,2018-07-02 22:20:13,2018-07-02 22:20:13,0.082s,PASSED
+waitForElementVisible,Firefox 52.0,,2018-07-02 22:20:13,2018-07-02 22:20:34,21.498s,PASSED
+verifyElementText,Firefox 52.0,,2018-07-02 22:20:34,2018-07-02 22:21:07,32.170s,FAILED
+,,,,,,
+Test Cases/DDS-277/DDS-4243 In Grid view User should be able to add catalog items into cart,Firefox 52.0,,2018-07-02 22:21:07,2018-07-02 22:23:19,2m - 12.539s,FAILED
+callTestCase,Firefox 52.0,,2018-07-02 22:21:07,2018-07-02 22:21:45,38.623s,PASSED
+waitForPageLoad,Firefox 52.0,,2018-07-02 22:21:45,2018-07-02 22:21:45,0.021s,PASSED
+click,Firefox 52.0,,2018-07-02 22:21:45,2018-07-02 22:21:45,0.090s,PASSED
+delay,Firefox 52.0,,2018-07-02 22:21:45,2018-07-02 22:21:53,8.001s,PASSED
+waitForElementVisible,Firefox 52.0,,2018-07-02 22:21:53,2018-07-02 22:22:47,53.436s,PASSED
+click,Firefox 52.0,,2018-07-02 22:22:47,2018-07-02 22:23:19,32.304s,FAILED
+,,,,,,
+Test Cases/DDS-277/DDS-4244 In Grid view User should be able to select multiple catalog items and add it to cart,Firefox 52.0,,2018-07-02 22:23:19,2018-07-02 22:25:29,2m - 9.728s,FAILED
+callTestCase,Firefox 52.0,,2018-07-02 22:23:19,2018-07-02 22:23:54,34.650s,PASSED
+waitForPageLoad,Firefox 52.0,,2018-07-02 22:23:54,2018-07-02 22:23:54,0.009s,PASSED
+delay,Firefox 52.0,,2018-07-02 22:23:54,2018-07-02 22:24:04,10.001s,PASSED
+click,Firefox 52.0,,2018-07-02 22:24:04,2018-07-02 22:24:04,0.099s,PASSED
+waitForElementVisible,Firefox 52.0,,2018-07-02 22:24:04,2018-07-02 22:24:56,52.544s,PASSED
+click,Firefox 52.0,,2018-07-02 22:24:56,2018-07-02 22:25:29,32.365s,FAILED
+,,,,,,
+Test Cases/DDS-280/DDS-4311 User should be able to remove items from the cart,Firefox 52.0,,2018-07-02 22:25:29,2018-07-02 22:27:37,2m - 8.705s,FAILED
+callTestCase,Firefox 52.0,,2018-07-02 22:25:29,2018-07-02 22:25:44,14.951s,PASSED
+click,Firefox 52.0,,2018-07-02 22:25:44,2018-07-02 22:26:06,22.479s,PASSED
+delay,Firefox 52.0,,2018-07-02 22:26:06,2018-07-02 22:26:09,3.001s,PASSED
+"Statement - b = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getAttribute(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Cart Page/Empty Cart Button), ""ng-reflect-is-disabled"")",Firefox 52.0,,2018-07-02 22:26:09,2018-07-02 22:26:09,0.042s,PASSED
+"Statement - If (b == ""false"")",Firefox 52.0,,2018-07-02 22:26:09,2018-07-02 22:26:09,0.000s,PASSED
+Statement - Else,Firefox 52.0,,2018-07-02 22:26:09,2018-07-02 22:27:37,1m - 28.164s,FAILED
+,,,,,,
+Test Cases/DDS-280/DDS-4312 System should display confirm pop up message on deleting single item in cart,Firefox 52.0,,2018-07-02 22:27:37,2018-07-02 22:29:10,1m - 32.421s,FAILED
+callTestCase,Firefox 52.0,,2018-07-02 22:27:38,2018-07-02 22:28:17,38.980s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 22:28:17,2018-07-02 22:28:38,21.476s,PASSED
+click,Firefox 52.0,,2018-07-02 22:28:38,2018-07-02 22:29:10,31.908s,FAILED
+,,,,,,
+Test Cases/DDS-280/DDS-4313 Verify confirm pop up message  after deleting single item  stating Are you sure you want to delete item Name on the cart  with yes and No button,Firefox 52.0,,2018-07-02 22:29:10,2018-07-02 22:30:40,1m - 29.664s,FAILED
+callTestCase,Firefox 52.0,,2018-07-02 22:29:10,2018-07-02 22:29:46,36.438s,PASSED
+waitForElementVisible,Firefox 52.0,,2018-07-02 22:29:46,2018-07-02 22:30:08,21.270s,PASSED
+click,Firefox 52.0,,2018-07-02 22:30:08,2018-07-02 22:30:40,31.891s,FAILED
+,,,,,,
+"Test Cases/DDS-280/DDS-4314 If all items are deleted, system should show message Your cart is empty",Firefox 52.0,,2018-07-02 22:30:40,2018-07-02 22:32:08,1m - 27.955s,FAILED
+callTestCase,Firefox 52.0,,2018-07-02 22:30:40,2018-07-02 22:31:14,34.844s,PASSED
+waitForElementVisible,Firefox 52.0,,2018-07-02 22:31:14,2018-07-02 22:31:36,21.188s,PASSED
+click,Firefox 52.0,,2018-07-02 22:31:36,2018-07-02 22:32:08,31.867s,FAILED
+,,,,,,
+Test Cases/DDS-280/DDS-4315 Add cart to basket Empty cart and checkout button should be disabled if cart is empty,Firefox 52.0,,2018-07-02 22:32:08,2018-07-02 22:33:37,1m - 29.696s,FAILED
+callTestCase,Firefox 52.0,,2018-07-02 22:32:08,2018-07-02 22:32:44,36.743s,PASSED
+waitForElementVisible,Firefox 52.0,,2018-07-02 22:32:44,2018-07-02 22:33:05,21.100s,PASSED
+click,Firefox 52.0,,2018-07-02 22:33:05,2018-07-02 22:33:37,31.796s,FAILED
+,,,,,,
+Test Cases/DDS_281/DDS_4316,Firefox 52.0,,2018-07-02 22:33:37,2018-07-02 22:34:18,40.593s,PASSED
+callTestCase,Firefox 52.0,,2018-07-02 22:33:37,2018-07-02 22:33:52,14.202s,PASSED
+doubleClick,Firefox 52.0,,2018-07-02 22:33:52,2018-07-02 22:34:13,21.068s,PASSED
+verifyElementPresent,Firefox 52.0,,2018-07-02 22:34:13,2018-07-02 22:34:13,0.016s,PASSED
+delay,Firefox 52.0,,2018-07-02 22:34:13,2018-07-02 22:34:18,5.000s,PASSED
+closeBrowser,Firefox 52.0,,2018-07-02 22:34:18,2018-07-02 22:34:18,0.236s,PASSED
+,,,,,,
+Test Cases/DDS_281/DDS_4317,Firefox 52.0,,2018-07-02 22:34:18,2018-07-02 22:36:00,1m - 41.858s,FAILED
+callTestCase,Firefox 52.0,,2018-07-02 22:34:18,2018-07-02 22:34:56,38.214s,PASSED
+waitForElementPresent,Firefox 52.0,,2018-07-02 22:34:56,2018-07-02 22:35:28,31.696s,PASSED
+click,Firefox 52.0,,2018-07-02 22:35:28,2018-07-02 22:36:00,31.885s,FAILED
+,,,,,,
+Test Cases/DDS_281/DDS_4318,Firefox 52.0,,2018-07-02 22:36:00,2018-07-02 22:36:00,0.057s,ERROR
+callTestCase,Firefox 52.0,,2018-07-02 22:36:00,2018-07-02 22:36:00,0.000s,PASSED
+,,,,,,
+Test Cases/DDS_281/DDS_4319,Firefox 52.0,,2018-07-02 22:36:00,2018-07-02 22:36:00,0.068s,ERROR
+callTestCase,Firefox 52.0,,2018-07-02 22:36:00,2018-07-02 22:36:00,0.000s,PASSED

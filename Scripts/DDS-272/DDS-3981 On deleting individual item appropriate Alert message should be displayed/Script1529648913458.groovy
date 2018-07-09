@@ -21,9 +21,10 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.callTestCase(findTestCase('CommonLibraries/Search By Item'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.waitForElementPresent(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For Item3'), 0)
+WebUI.waitForElementPresent(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For 3 Row Item List'), 
+    50)
 
-WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For Item3'))
+WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For 3 Row Item List'))
 
 WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/AddToCart_MultipleItem'))
 
@@ -33,7 +34,7 @@ WebUI.click(findTestObject('Cart Page/Delete Icon_line item 1'))
 
 WebUI.waitForElementVisible(findTestObject('Popups/Delete Item Pop Up/Item Delete Message'), 3)
 
-WebUI.verifyElementText(findTestObject('Popups/Delete Item Pop Up/Item Delete Message'), 'Are you sure you want to delete \'item 1\' on the cart?')
+WebUI.verifyElementText(findTestObject('Popups/Delete Item Pop Up/Item Delete Message'), 'Are you sure you want to delete \'Item3\' on the cart?')
 
 WebUI.closeBrowser()
 

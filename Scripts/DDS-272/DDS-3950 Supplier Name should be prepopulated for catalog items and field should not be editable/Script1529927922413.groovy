@@ -21,7 +21,7 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.callTestCase(findTestCase('CommonLibraries/Search By Item'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.waitForElementPresent(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For Item1'), 50)
+WebUI.waitForElementPresent(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For 2 row item list'), 50)
 
 String ActualSupplierName = WebUI.getText(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Supplier Name for ITEM1'))
 
@@ -29,7 +29,7 @@ String[] arr1 = ActualSupplierName.split(' ')
 
 String actual = ((((((arr1[1]) + ' ') + (arr1[2])) + ' ') + (arr1[3])) + ' ') + (arr1[4])
 
-WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For Item1'))
+WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For 2 row item list'))
 
 WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/AddToCart_MultipleItem'))
 

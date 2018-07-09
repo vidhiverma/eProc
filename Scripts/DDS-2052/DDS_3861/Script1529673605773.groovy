@@ -39,9 +39,9 @@ if (WebUI.verifyElementAttributeValue(findTestObject('Cart Page/Empty Cart Butto
 
     WebUI.delay(10)
 
-    WebUI.sendKeys(findTestObject('OnlineStorePage/SerachBox'), findTestData('TestData').getValue(2, 4))
+    WebUI.sendKeys(findTestObject('OnlineStorePage/Search Box'), findTestData('TestData').getValue(2, 4))
 
-    WebUI.click(findTestObject('OnlineStorePage/SearchIcon'), FailureHandling.STOP_ON_FAILURE)
+    WebUI.click(findTestObject('OnlineStorePage/Search Icon'), FailureHandling.STOP_ON_FAILURE)
 	
 	WebUI.delay(15)
 
@@ -53,7 +53,7 @@ if (WebUI.verifyElementAttributeValue(findTestObject('Cart Page/Empty Cart Butto
 
     WebUI.sendKeys(findTestObject('Popups/AddToBasket/BasketNameInputBox'), 'Testbasket')
 
-    WebUI.doubleClick(findTestObject('Popups/AddToBasket/ButtonAddToBasket'))
+    WebUI.doubleClick(findTestObject('Popups/AddToBasket/Add To Basket'))
 
     WebUI.delay(5)
 
@@ -85,9 +85,9 @@ else {
 	
 		WebUI.delay(10)
 	
-		WebUI.sendKeys(findTestObject('OnlineStorePage/SerachBox'), findTestData('TestData').getValue(2, 4))
+		WebUI.sendKeys(findTestObject('OnlineStorePage/Search Box'), findTestData('TestData').getValue(2, 4))
 	
-		WebUI.click(findTestObject('OnlineStorePage/SearchIcon'), FailureHandling.STOP_ON_FAILURE)
+		WebUI.click(findTestObject('OnlineStorePage/Search Icon'), FailureHandling.STOP_ON_FAILURE)
 		
 		WebUI.delay(15)
 		
@@ -100,7 +100,7 @@ else {
 	
 		WebUI.sendKeys(findTestObject('Popups/AddToBasket/BasketNameInputBox'), 'Testbasket')
 	
-		WebUI.doubleClick(findTestObject('Popups/AddToBasket/ButtonAddToBasket'))
+		WebUI.doubleClick(findTestObject('Popups/AddToBasket/Add To Basket'))
 	
 		WebUI.delay(5)
 	

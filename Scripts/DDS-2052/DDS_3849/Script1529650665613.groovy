@@ -29,9 +29,9 @@ WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Checkbox
 
 WebUI.doubleClick(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/AddToBasketMultipleItem'))
 
-WebUI.verifyElementPresent(findTestObject('Popups/AddToBasket/RadioButtonCreateNew'), 10)
+WebUI.verifyElementPresent(findTestObject('Popups/AddToBasket/Create New Radio Button'), 10)
 
-WebUI.verifyElementPresent(findTestObject('Popups/AddToBasket/RadioButtonExistingBasket'), 10)
+WebUI.verifyElementPresent(findTestObject('Popups/AddToBasket/Existing Basket RadioButton'), 10)
 
 WebUI.delay(5)
 

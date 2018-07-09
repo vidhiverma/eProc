@@ -31,7 +31,7 @@ WebUI.doubleClick(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Ad
 
 WebUI.sendKeys(findTestObject('Popups/AddToBasket/BasketNameInputBox'), 'vidhi11')
 
-WebUI.doubleClick(findTestObject('Popups/AddToBasket/ButtonAddToBasket'))
+WebUI.doubleClick(findTestObject('Popups/AddToBasket/Add To Basket'))
 
 WebUI.delay(5)
 

@@ -45,7 +45,7 @@ WebUI.doubleClick(findTestObject('Popups/Empty cart/Yes Button'))
 
 WebUI.delay(10)
 
-WebUI.verifyElementAttributeValue(findTestObject('CartPage/AddCartToBasketButton'), 'ng-reflect-is-disabled', 'true', 5)
+WebUI.verifyElementAttributeValue(findTestObject('Cart Page/AddCartToBasketButton'), 'ng-reflect-is-disabled', 'true', 5)
 
 WebUI.delay(5)
 

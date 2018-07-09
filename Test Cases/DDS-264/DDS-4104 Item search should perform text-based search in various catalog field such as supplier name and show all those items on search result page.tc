@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DDS-4104 Item search should perform text-based search in various catalog field such as supplier name and show all those items on search result page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>af403a13-c462-4f12-bf12-538475070d83</testCaseGuid>
+</TestCaseEntity>

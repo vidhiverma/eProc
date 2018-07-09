@@ -21,17 +21,20 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.callTestCase(findTestCase('CommonLibraries/Search By Item'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.waitForElementPresent(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For Item3'), 50)
+WebUI.waitForElementPresent(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For 1 Row Item List'), 
+    50)
 
-WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For Item3'))
+WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For 1 Row Item List'))
 
-String PartNo = WebUI.getText(findTestObject('Cart Page/Part No For Item3'))
+String PartNo = WebUI.getText(findTestObject('Cart Page/Part No For Item1'))
 
 WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/AddToCart_MultipleItem'))
 
+WebUI.delay(2)
+
 WebUI.click(findTestObject('OnlineStorePage/CartIcon'))
 
-String ItemNo = WebUI.getText(findTestObject('Cart Page/Item No details for Item 1'))
+String ItemNo = WebUI.getText(findTestObject('Cart Page/Item No details for Item 1'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyMatch(PartNo, ItemNo, true)
 

@@ -21,9 +21,9 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.callTestCase(findTestCase('CommonLibraries/Search By Item'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.waitForElementPresent(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For Item3'), 0)
+WebUI.waitForElementPresent(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For 3 Row Item List'), 0)
 
-WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For Item3'))
+WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For 3 Row Item List'))
 
 WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/AddToCart_MultipleItem'))
 
@@ -37,11 +37,11 @@ WebUI.verifyElementText(findTestObject('Cart Page/Delete One Item  Message '), '
 
 WebUI.click(findTestObject('Home'))
 
-WebUI.sendKeys(findTestObject('OnlineStorePage/SerachBox'), findTestData('TestData').getValue(2, 4))
+WebUI.sendKeys(findTestObject('OnlineStorePage/Search Box'), findTestData('TestData').getValue(2, 4))
 
-WebUI.click(findTestObject('OnlineStorePage/SearchIcon'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('OnlineStorePage/Search Icon'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For Item3'))
+WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For 3 Row Item List'))
 
 WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/AddToCart_MultipleItem'))
 

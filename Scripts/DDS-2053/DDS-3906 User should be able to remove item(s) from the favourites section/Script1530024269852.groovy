@@ -21,7 +21,7 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.callTestCase(findTestCase('CommonLibraries/Search By Item'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.waitForElementPresent(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For Item1'), 50)
+WebUI.waitForElementPresent(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For 2 row item list'), 50)
 
 WebUI.waitForElementPresent(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Favorite Button For ITEM1'), 10)
 
@@ -91,13 +91,13 @@ WebUI.click(findTestObject('OnlineStorePage/HeaderTab/FavoritesAndPreviouslyUsed
 
 WebUI.delay(4)
 
-WebUI.mouseOver(findTestObject('OnlineStorePage/HeaderTab/FavoritesAndPreviouslyUsedTab/View All Section/Check Box 1'))
+WebUI.click(findTestObject('OnlineStorePage/HeaderTab/FavoritesAndPreviouslyUsedTab/View All Section/Check Box 1'))
 
-WebUI.check(findTestObject('OnlineStorePage/HeaderTab/FavoritesAndPreviouslyUsedTab/View All Section/Check Box 1'))
+WebUI.delay(4)
 
-WebUI.mouseOver(findTestObject('OnlineStorePage/HeaderTab/FavoritesAndPreviouslyUsedTab/View All Section/Check Box 2'))
+WebUI.click(findTestObject('OnlineStorePage/HeaderTab/FavoritesAndPreviouslyUsedTab/View All Section/Check Box 2'))
 
-WebUI.check(findTestObject('OnlineStorePage/HeaderTab/FavoritesAndPreviouslyUsedTab/View All Section/Check Box 2'))
+WebUI.delay(4)
 
 WebUI.click(findTestObject('OnlineStorePage/HeaderTab/FavoritesAndPreviouslyUsedTab/View All Section/Menu Icon'))
 

@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//dew-modal[2]/div/div/div[3]/dew-modal-footer/dew-btn[1]/button</value>
+         <value>//span[text()='Yes']/ancestor::button</value>
       </entry>
       <entry>
          <key>BASIC</key>

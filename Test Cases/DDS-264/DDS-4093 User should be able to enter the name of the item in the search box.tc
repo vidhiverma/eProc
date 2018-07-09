@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DDS-4093 User should be able to enter the name of the item in the search box</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3efa2188-a434-4151-b4a2-c798abd49841</testCaseGuid>
+</TestCaseEntity>

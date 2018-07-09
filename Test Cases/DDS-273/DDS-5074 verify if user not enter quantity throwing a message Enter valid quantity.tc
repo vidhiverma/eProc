@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DDS-5074 verify if user not enter quantity throwing a message Enter valid quantity</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>48f1d24d-199b-4a2b-b564-9e8ed1fd6766</testCaseGuid>
+</TestCaseEntity>

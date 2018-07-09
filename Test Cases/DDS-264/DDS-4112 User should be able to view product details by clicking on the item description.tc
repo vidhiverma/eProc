@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DDS-4112 User should be able to view product details by clicking on the item description</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>da9b58db-f1d8-4926-960e-f61eb421ef56</testCaseGuid>
+</TestCaseEntity>

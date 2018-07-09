@@ -21,11 +21,11 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.callTestCase(findTestCase('CommonLibraries/Search By Item'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.waitForElementPresent(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For Item3'), 50)
+WebUI.waitForElementPresent(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For 3 Row Item List'), 50)
 
-String ActualCurrencyValue = WebUI.getText(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Currency Value For ITEM1'))
+String ActualCurrencyValue = WebUI.getText(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Currency Value For Item3'))
 
-WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For Item3'))
+WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For 3 Row Item List'))
 
 WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/AddToCart_MultipleItem'))
 

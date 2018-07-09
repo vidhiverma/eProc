@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>DDS-4238 On search result page, there should be toggle switch present between list view of items and grid view of items</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>4fa26fe7-f5f9-4df2-9841-97d2f7f775c1</testCaseGuid>
-</TestCaseEntity>

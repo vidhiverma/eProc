@@ -18,24 +18,20 @@ import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUiBuiltInKeywords
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
+import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('CommonLibraries/Search By Item'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.waitForElementVisible(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For Item3'), 20)
+WebUI.waitForElementVisible(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For 3 Row Item List'), 
+    50)
 
-WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For Item3'))
+WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For 3 Row Item List'))
 
 WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/AddToCart_MultipleItem'))
 
 WebUI.click(findTestObject('OnlineStorePage/CartIcon'))
 
-WebUI.delay(10)
-
-WebUI.mouseOver(findTestObject('Cart Page/Empty Cart Button'), FailureHandling.STOP_ON_FAILURE)
-
-not_run: WebUI.doubleClick(findTestObject('Cart Page/Empty Cart Button'))
-
-WebUI.delay(6)
+not_run: WebUI.click(findTestObject('Cart Page/Empty Cart Button'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Popups/Empty cart/Yes Button'))
 

@@ -6,14 +6,15 @@
    <elementGuidId>7882d1a0-faf4-4d67-b9b3-96ebcbf66b5c</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>//span[text()='Empty Cart']/ancestor::button/..</value>
+      </entry>
+      <entry>
          <key>CSS</key>
       </entry>
       <entry>
          <key>BASIC</key>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//span[text()='Empty Cart']/ancestor::button[@class='btn view']/..</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DDS-4096  Cant find what u are looking for  Create request option  should be displayed below search type after typing item name in the search box</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fda6dbfe-b547-4356-8c45-77710fe57350</testCaseGuid>
+</TestCaseEntity>

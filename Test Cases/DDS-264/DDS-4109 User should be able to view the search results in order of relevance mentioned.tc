@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DDS-4109 User should be able to view the search results in order of relevance mentioned</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c396bd9a-e895-410d-ba5a-a7dbdb526d8d</testCaseGuid>
+</TestCaseEntity>

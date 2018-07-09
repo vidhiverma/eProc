@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DDS-4106 Item search should perform text-based search in various catalog field such as item desc and show all those items on search result page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6daf244d-69c1-4148-b1a9-d386caa3ec66</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DDS-4119 Out of Stock should be displayed within search results with a Out of Stock label in red in front of the lead time</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7858cd49-5c6a-4a19-bce4-73d18919340c</testCaseGuid>
+</TestCaseEntity>

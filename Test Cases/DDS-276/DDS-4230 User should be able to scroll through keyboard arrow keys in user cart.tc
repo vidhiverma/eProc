@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DDS-4230 User should be able to scroll through keyboard arrow keys in user cart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>24b9f231-2d6b-48a3-b3fd-5b7f15f48797</testCaseGuid>
+</TestCaseEntity>

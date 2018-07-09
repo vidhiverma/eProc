@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DDS-4244 In Grid view User should be able to select multiple catalog items and add it to cart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f66d2c55-21ec-497f-97cd-3e37be6cb038</testCaseGuid>
+</TestCaseEntity>

@@ -22,23 +22,24 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('CommonLibraries/Search By Item'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.waitForElementClickable(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For Item3'), 10)
+WebUI.waitForElementClickable(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For 3 Row Item List'), 
+    10)
 
-WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For Item3'))
+WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For 3 Row Item List'))
 
 WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/AddToBasketMultipleItem'))
 
-WebUI.click(findTestObject('Popups/AddToBasket/RadioButtonExistingBasket'))
+WebUI.click(findTestObject('Popups/AddToBasket/Existing Basket RadioButton'))
 
 WebUI.delay(2)
 
-WebUI.sendKeys(findTestObject('Popups/AddToBasket/SearchAndSelectBox'), findTestData('TestData').getValue(2, 5))
+WebUI.sendKeys(findTestObject('Popups/AddToBasket/Search And Select Edit Box'), findTestData('TestData').getValue(2, 5))
 
 WebUI.click(findTestObject('Popups/AddToBasket/SelectNameFromTextBox'))
 
-WebUI.waitForElementVisible(findTestObject('Popups/AddToBasket/ButtonAddToBasket'), 0)
+WebUI.waitForElementVisible(findTestObject('Popups/AddToBasket/Add To Basket'), 0)
 
-WebUI.click(findTestObject('Popups/AddToBasket/ButtonAddToBasket'))
+WebUI.click(findTestObject('Popups/AddToBasket/Add To Basket'))
 
 WebUI.click(findTestObject('Home'))
 

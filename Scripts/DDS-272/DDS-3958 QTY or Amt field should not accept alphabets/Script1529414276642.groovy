@@ -22,9 +22,10 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('CommonLibraries/Search By Item'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.waitForElementPresent(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For Item3'), 0)
+WebUI.waitForElementPresent(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For 3 Row Item List'), 
+    0)
 
-WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For Item3'))
+WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For 3 Row Item List'))
 
 WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/AddToCart_MultipleItem'))
 
@@ -37,4 +38,6 @@ WebUI.click(findTestObject('Cart Page/Line Item Details/Quantity or Amt'))
 WebUI.waitForElementPresent(findTestObject('Popups/Alert Pop Up/Alert message'), 5)
 
 WebUI.verifyElementText(findTestObject('Popups/Alert Pop Up/Alert message'), 'Enter valid quantity')
+
+WebUI.closeBrowser()
 

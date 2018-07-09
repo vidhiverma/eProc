@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//td[text()='INR 200']</value>
+         <value>//td[text()='INR 20']</value>
       </entry>
       <entry>
          <key>BASIC</key>

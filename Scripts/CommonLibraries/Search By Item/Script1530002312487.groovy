@@ -22,11 +22,11 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('CommonLibraries/Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.waitForElementPresent(findTestObject('OnlineStorePage/SerachBox'), 50)
+WebUI.waitForElementPresent(findTestObject('OnlineStorePage/Search Box'), 50)
 
 WebUI.waitForPageLoad(20)
 
-WebUI.sendKeys(findTestObject('OnlineStorePage/SerachBox'), findTestData('TestData').getValue(2, 4))
+WebUI.sendKeys(findTestObject('OnlineStorePage/Search Box'), findTestData('TestData').getValue(2, 4))
 
-WebUI.click(findTestObject('OnlineStorePage/SearchIcon'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('OnlineStorePage/Search Icon'), FailureHandling.STOP_ON_FAILURE)
 

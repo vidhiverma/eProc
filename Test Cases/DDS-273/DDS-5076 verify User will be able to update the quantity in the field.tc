@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DDS-5076 verify User will be able to update the quantity in the field</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2b7b029b-5783-41f1-b60e-fc430a03b90e</testCaseGuid>
+</TestCaseEntity>

@@ -21,21 +21,20 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.callTestCase(findTestCase('CommonLibraries/Search By Item'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.waitForElementVisible(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For Item3'), 20)
+WebUI.waitForElementVisible(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For 3 Row Item List'), 
+    20)
 
-WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For Item3'))
+WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For 3 Row Item List'))
 
 WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/AddToCart_MultipleItem'))
 
 WebUI.click(findTestObject('OnlineStorePage/CartIcon'))
 
-not_run: WebUI.click(findTestObject('Cart Page/Empty Cart Button'))
-
-WebUI.delay(6)
-
-WebUI.click(findTestObject('Popups/Empty cart/Yes Button'))
+WebUI.click(findTestObject('Cart Page/Empty Cart Button'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(2)
+
+WebUI.click(findTestObject('Popups/Empty cart/Yes Button'))
 
 WebUI.verifyElementNotVisible(findTestObject('Cart Page/Checkout Button'))
 

@@ -40,21 +40,21 @@ WebUI.back()
 
 WebUI.delay(10)
 
-WebUI.sendKeys(findTestObject('OnlineStorePage/SerachBox'), findTestData('TestData').getValue(2, 4))
+WebUI.sendKeys(findTestObject('OnlineStorePage/Search Box'), findTestData('TestData').getValue(2, 4))
 
-WebUI.click(findTestObject('OnlineStorePage/SearchIcon'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('OnlineStorePage/Search Icon'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(30)
 
-WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/CheckboxFirstItem'))
+WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For 1 Row Item List'))
 
-WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/CheckboxSecondItem'))
+WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For 2 row item list'))
 
-WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/CheckboxThirdItem'))
+WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For 3 Row Item List'))
 
-WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/CheckboxFourthItem'))
+WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For 4 Row Item List'))
 
-WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/CheckboxFifthItem'))
+WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For 5 Row Item List'))
 
 WebUI.doubleClick(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/AddToCart_MultipleItem'))
 
@@ -64,9 +64,9 @@ WebUI.back()
 
 WebUI.delay(10)
 
-WebUI.sendKeys(findTestObject('OnlineStorePage/SerachBox'), findTestData('TestData').getValue(3, 4))
+WebUI.sendKeys(findTestObject('OnlineStorePage/Search Box'), findTestData('TestData').getValue(3, 4))
 
-WebUI.click(findTestObject('OnlineStorePage/SearchIcon'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('OnlineStorePage/Search Icon'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(15)
 
@@ -78,7 +78,7 @@ WebUI.doubleClick(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Ad
 
 WebUI.sendKeys(findTestObject('Popups/AddToBasket/BasketNameInputBox'), 'appendbasket')
 
-WebUI.doubleClick(findTestObject('Popups/AddToBasket/ButtonAddToBasket'))
+WebUI.doubleClick(findTestObject('Popups/AddToBasket/Add To Basket'))
 
 WebUI.delay(5)
 

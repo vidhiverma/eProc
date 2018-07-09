@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DDS-5075 verify user can able to enter negative quantity</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7f1c5a07-c127-4ddb-8251-3ba2035cc9b3</testCaseGuid>
+</TestCaseEntity>

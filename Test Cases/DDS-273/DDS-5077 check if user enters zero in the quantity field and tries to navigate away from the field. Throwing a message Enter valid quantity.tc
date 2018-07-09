@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DDS-5077 check if user enters zero in the quantity field and tries to navigate away from the field. Throwing a message Enter valid quantity</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dc3c84a6-e3c1-415c-ac11-0e6a79776a86</testCaseGuid>
+</TestCaseEntity>

@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//dew-tab[@id='[Sub Section] product']//dew-col[2]/eproc-product-card/dew-card/dew-row/dew-col[1]/div/dew-checkbox</value>
+         <value>//dew-block[@class=&quot;dew-block&quot;]/dew-row[1]/dew-col[2]/eproc-product-card/dew-card/dew-row/dew-col[1]/div/dew-checkbox</value>
       </entry>
       <entry>
          <key>BASIC</key>

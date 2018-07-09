@@ -36,13 +36,13 @@ if (b == 'false') {
 
     WebUI.click(findTestObject('Home'))
 
-    WebUI.sendKeys(findTestObject('OnlineStorePage/SerachBox'), findTestData('TestData').getValue(2, 4))
+    WebUI.sendKeys(findTestObject('OnlineStorePage/Search Box'), findTestData('TestData').getValue(2, 4))
 
-    WebUI.click(findTestObject('OnlineStorePage/SearchIcon'))
+    WebUI.click(findTestObject('OnlineStorePage/Search Icon'))
 
-    WebUI.waitForElementVisible(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For Item3'), 50)
+    WebUI.waitForElementVisible(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For 3 Row Item List'), 50)
 
-    WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For Item3'))
+    WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For 3 Row Item List'))
 
     WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/AddToCart_MultipleItem'))
 
@@ -54,13 +54,13 @@ if (b == 'false') {
 
     WebUI.click(findTestObject('Home'))
 
-    WebUI.sendKeys(findTestObject('OnlineStorePage/SerachBox'), findTestData('TestData').getValue(2, 4))
+    WebUI.sendKeys(findTestObject('OnlineStorePage/Search Box'), findTestData('TestData').getValue(2, 4))
 
-    WebUI.click(findTestObject('OnlineStorePage/SearchIcon'))
+    WebUI.click(findTestObject('OnlineStorePage/Search Icon'))
 
-    WebUI.waitForElementPresent(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For Item1'), 50)
+    WebUI.waitForElementPresent(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For 2 row item list'), 50)
 
-    WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For Item1'))
+    WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For 2 row item list'))
 
     WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/AddToCart_MultipleItem'))
 
@@ -74,13 +74,13 @@ if (b == 'false') {
 } else {
     WebUI.click(findTestObject('Home'))
 
-    WebUI.sendKeys(findTestObject('OnlineStorePage/SerachBox'), findTestData('TestData').getValue(2, 4))
+    WebUI.sendKeys(findTestObject('OnlineStorePage/Search Box'), findTestData('TestData').getValue(2, 4))
 
-    WebUI.click(findTestObject('OnlineStorePage/SearchIcon'))
+    WebUI.click(findTestObject('OnlineStorePage/Search Icon'))
 
-    WebUI.waitForElementVisible(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For Item3'), 50)
+    WebUI.waitForElementVisible(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For 3 Row Item List'), 50)
 
-    WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For Item3'))
+    WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For 3 Row Item List'))
 
     WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/AddToCart_MultipleItem'))
 
@@ -92,13 +92,13 @@ if (b == 'false') {
 
     WebUI.click(findTestObject('Home'))
 
-    WebUI.sendKeys(findTestObject('OnlineStorePage/SerachBox'), findTestData('TestData').getValue(2, 4))
+    WebUI.sendKeys(findTestObject('OnlineStorePage/Search Box'), findTestData('TestData').getValue(2, 4))
 
-    WebUI.click(findTestObject('OnlineStorePage/SearchIcon'))
+    WebUI.click(findTestObject('OnlineStorePage/Search Icon'))
 
-    WebUI.waitForElementPresent(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For Item1'), 50)
+    WebUI.waitForElementPresent(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For 2 row item list'), 50)
 
-    WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For Item1'))
+    WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For 2 row item list'))
 
     WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/AddToCart_MultipleItem'))
 

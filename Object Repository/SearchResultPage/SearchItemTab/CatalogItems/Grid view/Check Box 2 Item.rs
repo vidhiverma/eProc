@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//dew-flex-item[2]/eproc-product-card/dew-card/dew-card-img/div[1]/dew-checkbox</value>
+         <value>//dew-flex-item[2]/eproc-product-card/dew-card/dew-card-img/div/dew-checkbox</value>
       </entry>
       <entry>
          <key>BASIC</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

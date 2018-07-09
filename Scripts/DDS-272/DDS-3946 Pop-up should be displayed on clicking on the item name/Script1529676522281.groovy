@@ -21,15 +21,16 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.callTestCase(findTestCase('CommonLibraries/Search By Item'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.waitForElementPresent(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For Item3'), 50)
+WebUI.waitForElementPresent(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For 2 row item list'), 
+    50)
 
-WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For Item3'))
+WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For 2 row item list'))
 
 WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/AddToCart_MultipleItem'))
 
 WebUI.click(findTestObject('OnlineStorePage/CartIcon'))
 
-WebUI.click(findTestObject('Cart Page/Item 1 Hyperlink'))
+WebUI.click(findTestObject('Cart Page/ITEM1 Hyperlink'))
 
 WebUI.waitForElementPresent(findTestObject('Popups/Item Details/Item details Pop Up'), 2)
 

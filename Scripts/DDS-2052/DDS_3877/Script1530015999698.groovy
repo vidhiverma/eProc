@@ -31,9 +31,9 @@ WebUI.click(findTestObject('LoginPage/LoginButton'))
 
 WebUI.delay(5)
 
-WebUI.sendKeys(findTestObject('OnlineStorePage/SerachBox'), findTestData('TestData').getValue(2, 4))
+WebUI.sendKeys(findTestObject('OnlineStorePage/Search Box'), findTestData('TestData').getValue(2, 4))
 
-WebUI.click(findTestObject('OnlineStorePage/SearchIcon'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('OnlineStorePage/Search Icon'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(15)
 
@@ -45,7 +45,7 @@ WebUI.doubleClick(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Ad
 
 WebUI.sendKeys(findTestObject('Popups/AddToBasket/BasketNameInputBox'), 'Newsharingbasket')
 
-WebUI.doubleClick(findTestObject('Popups/AddToBasket/ButtonAddToBasket'))
+WebUI.doubleClick(findTestObject('Popups/AddToBasket/Add To Basket'))
 
 WebUI.delay(5)
 

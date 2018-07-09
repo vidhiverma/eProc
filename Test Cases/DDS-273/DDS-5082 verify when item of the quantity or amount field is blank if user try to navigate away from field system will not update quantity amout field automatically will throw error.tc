@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DDS-5082 verify when item of the quantity or amount field is blank if user try to navigate away from field system will not update quantity amout field automatically will throw error</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c83ad3f1-1c35-4b78-98af-0fa8b687662f</testCaseGuid>
+</TestCaseEntity>

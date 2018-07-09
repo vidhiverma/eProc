@@ -21,25 +21,27 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.callTestCase(findTestCase('CommonLibraries/Search By Item'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.waitForPageLoad(10)
-
-WebUI.delay(10)
+WebUI.waitForElementVisible(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For 1 Row Item List'), 
+    50)
 
 WebUI.click(findTestObject('SearchResultPage/GridViewButton'))
 
-WebUI.waitForElementVisible(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Grid view/Check Box 1 item'), 50)
+WebUI.waitForElementPresent(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Grid view/Check Box 1 item'), 50)
 
-WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Grid view/Check Box 1 item'))
+WebUI.waitForElementVisible(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Grid view/Check Box 2 Item'), 50)
 
-WebUI.verifyElementText(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Catalog Item List Verification/Item3 For 3 Row'), 'item 1')
+WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Grid view/Check Box 2 Item'))
 
-WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Grid view/Check Box 1 item'))
+WebUI.verifyElementText(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Catalog Item List Verification/ITEM1 For 2 Row'), 
+    'ITEM1')
 
-WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Grid view/Add To Cart 1 Item'))
+WebUI.waitForElementVisible(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/AddToBasketMultipleItem'), 50)
+
+WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/AddToCart_MultipleItem'))
 
 WebUI.click(findTestObject('OnlineStorePage/CartIcon'))
 
-WebUI.verifyElementText(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Catalog Item List Verification/Item3 For 3 Row'), 'item 1')
+WebUI.verifyElementText(findTestObject('Cart Page/Verifying the Item list/ITEM1 verification'), 'ITEM1')
 
 WebUI.closeBrowser()
 

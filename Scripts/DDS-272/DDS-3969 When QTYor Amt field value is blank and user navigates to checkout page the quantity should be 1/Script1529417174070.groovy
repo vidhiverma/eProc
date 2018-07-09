@@ -22,15 +22,16 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('CommonLibraries/Search By Item'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.waitForElementPresent(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For Item3'), 50)
+WebUI.waitForElementPresent(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For 3 Row Item List'), 50)
 
-WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For Item3'))
+WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/Check Box For 3 Row Item List'))
 
 WebUI.click(findTestObject('SearchResultPage/SearchItemTab/CatalogItems/AddToCart_MultipleItem'))
 
 WebUI.click(findTestObject('OnlineStorePage/CartIcon'))
 
-WebUI.sendKeys(findTestObject('Cart Page/Qty or Amt Edit Box for line item1'), Keys.chord(Keys.BACK_SPACE, Keys.ENTER))
+WebUI.sendKeys(findTestObject('Cart Page/Qty or Amt Edit Box for line item1'), Keys.chord(Keys.INSERT, Keys.BACK_SPACE, 
+        Keys.BACK_SPACE))
 
 WebUI.click(findTestObject('Cart Page/Checkout Button'))
 

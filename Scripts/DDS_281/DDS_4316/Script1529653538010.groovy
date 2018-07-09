@@ -23,7 +23,7 @@ WebUI.callTestCase(findTestCase('CommonLibraries/Login'), [:], FailureHandling.S
 
 WebUI.doubleClick(findTestObject('OnlineStorePage/CartIcon'))
 
-WebUI.verifyElementPresent(findTestObject('CartPage/EmptyCartButton'), 10)
+WebUI.verifyElementPresent(findTestObject('Cart Page/EmptyCartButton'), 10)
 
 WebUI.delay(5)
 

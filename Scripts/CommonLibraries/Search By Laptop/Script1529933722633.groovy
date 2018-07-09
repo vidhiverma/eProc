@@ -23,7 +23,7 @@ WebUI.callTestCase(findTestCase('CommonLibraries/Login'), [:], FailureHandling.S
 
 WebUI.waitForPageLoad(5)
 
-WebUI.sendKeys(findTestObject('OnlineStorePage/SerachBox'), findTestData('TestData').getValue(3, 4))
+WebUI.sendKeys(findTestObject('OnlineStorePage/Search Box'), findTestData('TestData').getValue(3, 4))
 
-WebUI.click(findTestObject('OnlineStorePage/SearchIcon'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('OnlineStorePage/Search Icon'), FailureHandling.STOP_ON_FAILURE)
 
